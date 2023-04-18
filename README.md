@@ -58,20 +58,3 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 <p align="left"> <a href="https://www.dev.to/ed3899" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/edwardcasanova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11941146/edward-casanova" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ed3899"><img src="https://github-readme-stats.vercel.app/api?username=ed3899&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="ed3899's GitHub stats" /></a>
-
-<a href="http://www.github.com/ed3899"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ed3899&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-<a href="https://github.com/ed3899" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ed3899&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/ed3899/discover-videos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ed3899&repo=discover-videos&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ed3899/crown-clothing" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ed3899&repo=crown-clothing&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ed3899/meals-to-go" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ed3899&repo=meals-to-go&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ed3899/FAANG_DataStructures_and_Algorithms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ed3899&repo=FAANG_DataStructures_and_Algorithms&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
