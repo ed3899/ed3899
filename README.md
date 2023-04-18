@@ -4,13 +4,8 @@ Hi 👋 My name is Eduardo Casanova
 Full Stack Software Engineer
 ----------------------------
 
-With enough skills to be dangerous in the front-end but with a preference for the back-end. My role as a software engineer is to deeply understand problems in order to solve them. Nonetheless, I've been always intrigued towards those who involve more than just mere logic: - Socio-economics and crypto-nomics - Decentralization and corruption - Artificial Consciousness and its impact on society - The boundaries of technology ethics and human wellness "It may have all started as a dream fueled by passion and necessity but now, it is more of an obsession that keeps me glued to a purpose"
-
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [GitHub](http://github.com/ed3899)
 * ✉️  You can contact me at [ed.wacc1995@gmail.com](mailto:ed.wacc1995@gmail.com)
-* 🧠  I'm learning F#, Ruby
-* ⚡  Some of the tools I'm familiar with: DevOps: -Git/GitHub - Docker -Netlify -Terraform -AWS (In process...) Frontend: - JavaScript (Vue, Vuetify, Nuxt, React, Typescript) - HTML - CSS & SASS Backend: -Solidity (Hardhat to be completed) -IPFS (to be completed) -Node (TS-Node/Typescript) - Node JS (Express) -PostgreSQL / Preferably using ORMs - Mongo DB, Firebase - Graph QL - REST - F# (to be completed) - Ruby (to be completed) Arch/UI&UX Design - Visio - Figma AI (To be completed by EOY): -Python -Machine Learning -Deep Learning -Pandas -Any other needed libraries Things I've tried for fun: -Kali Linux for Cybersecurity & Penetration Testing -Linux for admins For some odd reason I wasn't able to add more websites to my contact info, according to the dev tools there's an error in the backend of LinkedIn
 
 <a href="https://www.github.com/ed3899" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
