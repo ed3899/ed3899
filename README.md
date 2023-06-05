@@ -1,7 +1,7 @@
 Hi 👋 My name is Eduardo Casanova
 =================================
 
-Full Stack Software Engineer
+Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Mexico
