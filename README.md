@@ -6,7 +6,6 @@ Software Engineer
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [ed.wacc1995@gmail.com](mailto:ed.wacc1995@gmail.com)
-* My [medium blog](https://medium.com/@ed.wacc1995)
 
 <a href="https://www.github.com/ed3899" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
