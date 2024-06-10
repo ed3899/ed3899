@@ -7,6 +7,12 @@ Software Engineer
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [ed.wacc1995@gmail.com](mailto:ed.wacc1995@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ed3899&label=Profile%20views&color=0e75b6&style=flat" alt="ed3899" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed3899" alt="ed3899" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/edca3911" target="blank"><img src="https://img.shields.io/twitter/follow/edca3911?logo=twitter&style=for-the-badge" alt="edca3911" /></a> </p>
+
 <a href="https://www.github.com/ed3899" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
