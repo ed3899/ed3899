@@ -7,14 +7,12 @@ Software Engineer
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [ed.wacc1995@gmail.com](mailto:ed.wacc1995@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ed3899&label=Profile%20views&color=0e75b6&style=flat" alt="ed3899" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed3899" alt="ed3899" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/edca3911" target="blank"><img src="https://img.shields.io/twitter/follow/edca3911?logo=twitter&style=for-the-badge" alt="edca3911" /></a> </p>
-
 <a href="https://www.github.com/ed3899" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Languages
 <p align="left">
@@ -37,3 +35,12 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 <a href="https://medium.com/@ed.wacc1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ed.wacc1995" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/edca3899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edca3899" height="30" width="40" /></a>
 </p>
+
+### Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed3899&show_icons=true&locale=en&layout=compact" alt="ed3899" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ed3899&show_icons=true&locale=en" alt="ed3899" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed3899&" alt="ed3899" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ed3899" alt="ed3899" /></a> </p>
