@@ -24,15 +24,10 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 </p>
 
 ### Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/edwardcasanova/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/11941146/edward-casanova" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://medium.com/@ed.wacc1995" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://twitter.com/edca3911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edca3911" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edwardcasanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwardcasanova" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11941146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11941146" height="30" width="40" /></a>
+<a href="https://medium.com/@ed.wacc1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ed.wacc1995" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/edca3899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edca3899" height="30" width="40" /></a>
+</p>
