@@ -10,6 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical CSS Scroll Snapping &lpar;1/5&rpar;](https://medium.com/@ed.wacc1995/practical-css-scroll-snapping-1-5-a2e07677107e?source=rss-bcf029f2b23f------2)
+- [The Power of :has&lpar;&rpar; in CSS](https://medium.com/@ed.wacc1995/the-power-of-has-in-css-5c6c176d4efd?source=rss-bcf029f2b23f------2)
+- [CSS Nesting without Sass: A Battle for Style Supremacy &lpar;3/3&rpar;](https://medium.com/@ed.wacc1995/css-nesting-without-sass-a-battle-for-style-supremacy-3-3-11e37cc17e3b?source=rss-bcf029f2b23f------2)
+- [CSS Nesting without Sass: A Battle for Style Supremacy &lpar;2/3&rpar;](https://medium.com/@ed.wacc1995/css-nesting-without-sass-a-battle-for-style-supremacy-2-3-9d7590f76a40?source=rss-bcf029f2b23f------2)
+- [How to Work with useMemo in React — with Code Examples &lpar;2/2&rpar;](https://javascript.plainenglish.io/how-to-work-with-usememo-in-react-with-code-examples-2-2-e9fb8fe7f469?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
