@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Selectors 101: From Simple to Advanced &lpar;2/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-2-4-3ddd568b9d80?source=rss-bcf029f2b23f------2)
 - [CSS Selectors 101: From Simple to Advanced &lpar;1/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-1-4-03e3d2306d56?source=rss-bcf029f2b23f------2)
 - [Practical CSS Scroll Snapping &lpar;5/5&rpar;](https://medium.com/@ed.wacc1995/practical-css-scroll-snapping-5-5-eb0bde34371d?source=rss-bcf029f2b23f------2)
 - [Practical CSS Scroll Snapping &lpar;4/5&rpar;](https://medium.com/@ed.wacc1995/practical-css-scroll-snapping-4-5-a6669237e1be?source=rss-bcf029f2b23f------2)
 - [Practical CSS Scroll Snapping &lpar;3/5&rpar;](https://medium.com/@ed.wacc1995/practical-css-scroll-snapping-3-5-94f0e57a84fd?source=rss-bcf029f2b23f------2)
-- [Practical CSS Scroll Snapping &lpar;2/5&rpar;](https://medium.com/@ed.wacc1995/practical-css-scroll-snapping-2-5-624f691b6564?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
