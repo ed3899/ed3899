@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CSS Cascade Layers: The Ultimate Guide to Conflict-Free Styling](https://medium.com/@ed.wacc1995/css-cascade-layers-the-ultimate-guide-to-conflict-free-styling-20b633e0896f?source=rss-bcf029f2b23f------2)
 - [CSS Cascade, Specificity &amp; Inheritance: The Ultimate Guide](https://medium.com/@ed.wacc1995/css-cascade-specificity-inheritance-the-ultimate-guide-9647b1872353?source=rss-bcf029f2b23f------2)
 - [CSS Selectors 101: From Simple to Advanced &lpar;4/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-4-4-afb04fc78081?source=rss-bcf029f2b23f------2)
 - [CSS Selectors 101: From Simple to Advanced &lpar;3/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-3-4-f0031e25246d?source=rss-bcf029f2b23f------2)
 - [CSS Selectors 101: From Simple to Advanced &lpar;2/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-2-4-3ddd568b9d80?source=rss-bcf029f2b23f------2)
-- [CSS Selectors 101: From Simple to Advanced &lpar;1/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-1-4-03e3d2306d56?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
