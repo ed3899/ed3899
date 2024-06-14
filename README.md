@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Quickly Match Objects in Figma](https://medium.com/@ed.wacc1995/how-to-quickly-match-objects-in-figma-08b6de8df154?source=rss-bcf029f2b23f------2)
 - [Master Responsive Design: Layout Grids &amp; Constraints in Figma](https://medium.com/@ed.wacc1995/master-responsive-design-layout-grids-constraints-in-figma-c9ac4a8115c9?source=rss-bcf029f2b23f------2)
 - [Master the Box Model: Essential CSS Layout](https://medium.com/@ed.wacc1995/master-the-box-model-essential-css-layout-fdb7d649243f?source=rss-bcf029f2b23f------2)
 - [CSS Cascade Layers: The Ultimate Guide to Conflict-Free Styling](https://medium.com/@ed.wacc1995/css-cascade-layers-the-ultimate-guide-to-conflict-free-styling-20b633e0896f?source=rss-bcf029f2b23f------2)
 - [CSS Cascade, Specificity &amp; Inheritance: The Ultimate Guide](https://medium.com/@ed.wacc1995/css-cascade-specificity-inheritance-the-ultimate-guide-9647b1872353?source=rss-bcf029f2b23f------2)
-- [CSS Selectors 101: From Simple to Advanced &lpar;4/4&rpar;](https://medium.com/@ed.wacc1995/css-selectors-101-from-simple-to-advanced-4-4-afb04fc78081?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
