@@ -37,6 +37,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 <a href="https://stackoverflow.com/users/11941146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11941146" height="30" width="40" /></a>
 <a href="https://medium.com/@ed.wacc1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ed.wacc1995" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/edca3899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edca3899" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCHp1sNFMyrfFrVX_GneXlgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchp1snfmyrffrvx_gnexlgg" height="30" width="40" /></a>
 </p>
 
 ### Stats
