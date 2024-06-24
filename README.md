@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Use CSS Values And Units: The Ultimate Guide &lpar;2/3&rpar;](https://medium.com/@ed.wacc1995/how-to-use-css-values-and-units-the-ultimate-guide-2-3-cae6ff7c98ee?source=rss-bcf029f2b23f------2)
 - [How To Use CSS Values And Units: The Ultimate Guide &lpar;1/3&rpar;](https://medium.com/@ed.wacc1995/how-to-use-css-values-and-units-the-ultimate-guide-1-3-9067871be341?source=rss-bcf029f2b23f------2)
 - [CSS Overflow Hacks You Didn’t Know You Needed](https://medium.com/@ed.wacc1995/css-overflow-hacks-you-didnt-know-you-needed-49f2bf34d5b6?source=rss-bcf029f2b23f------2)
 - [How To Change Writing Mode in CSS — Beyond Left and Right](https://medium.com/@ed.wacc1995/how-to-change-writing-mode-in-css-beyond-left-and-right-4c2788653704?source=rss-bcf029f2b23f------2)
 - [How To Use CSS Backgrounds and Borders](https://medium.com/@ed.wacc1995/how-to-use-css-backgrounds-and-borders-bf95d6448967?source=rss-bcf029f2b23f------2)
-- [How to Quickly Match Objects in Figma](https://medium.com/@ed.wacc1995/how-to-quickly-match-objects-in-figma-08b6de8df154?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
