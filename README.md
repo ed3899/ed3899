@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Grace Hopper: The Remarkable Woman Behind the “Bug”](https://medium.com/@ed.wacc1995/grace-hopper-the-remarkable-woman-behind-the-bug-721e99e0f669?source=rss-bcf029f2b23f------2)
 - [Ada Lovelace — The World’s First Computer Programmer](https://medium.com/@ed.wacc1995/ada-lovelace-the-worlds-first-computer-programmer-7b7afd2d5d13?source=rss-bcf029f2b23f------2)
 - [Edsger W. Dijkstra — From Physics to Bits](https://medium.com/@ed.wacc1995/edsger-w-dijkstra-from-physics-to-bits-c87b359a6d3a?source=rss-bcf029f2b23f------2)
 - [Alan Turing — The Man Who Was More Than a Machine](https://medium.com/@ed.wacc1995/alan-turing-the-man-who-was-more-than-a-machine-cb3964343cdd?source=rss-bcf029f2b23f------2)
 - [TypeOrm View Entities Explained](https://javascript.plainenglish.io/typeorm-view-entities-explained-dff89b23f806?source=rss-bcf029f2b23f------2)
-- [How To Use CSS Values And Units: The Ultimate Guide &lpar;2/3&rpar;](https://medium.com/@ed.wacc1995/how-to-use-css-values-and-units-the-ultimate-guide-2-3-cae6ff7c98ee?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
