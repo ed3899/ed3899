@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dennis MacAlistair Ritchie — The C and Unix Legacy](https://medium.com/@ed.wacc1995/dennis-macalistair-ritchie-the-c-and-unix-legacy-87207474099e?source=rss-bcf029f2b23f------2)
 - [Claude Shannon: The Man Who Measured Information](https://medium.com/@ed.wacc1995/claude-shannon-the-man-who-measured-information-7eb926021c9f?source=rss-bcf029f2b23f------2)
 - [John von Neumann — The Father of Modern Computing](https://medium.com/@ed.wacc1995/john-von-neumann-the-father-of-modern-computing-e6bb796a5000?source=rss-bcf029f2b23f------2)
 - [Doug Engelbart — Looking Beyond The Mouse](https://medium.com/@ed.wacc1995/doug-engelbart-looking-beyond-the-mouse-50f2d74c095a?source=rss-bcf029f2b23f------2)
 - [Grace Hopper: The Remarkable Woman Behind the “Bug”](https://medium.com/@ed.wacc1995/grace-hopper-the-remarkable-woman-behind-the-bug-721e99e0f669?source=rss-bcf029f2b23f------2)
-- [Ada Lovelace — The World’s First Computer Programmer](https://medium.com/@ed.wacc1995/ada-lovelace-the-worlds-first-computer-programmer-7b7afd2d5d13?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
