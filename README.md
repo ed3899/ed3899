@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Donald Davies — Paving the Road for the Internet](https://medium.com/@ed.wacc1995/donald-davies-paving-the-road-for-the-internet-d8fb7cde1361?source=rss-bcf029f2b23f------2)
 - [Marvin Minsky — Insights into AI and the Human Mind](https://medium.com/@ed.wacc1995/marvin-minsky-insights-into-ai-and-the-human-mind-58fc9f0d1849?source=rss-bcf029f2b23f------2)
 - [Alan Kay — Inventing the Future of Programming](https://medium.com/@ed.wacc1995/alan-kay-inventing-the-future-of-programming-dfe97ed50735?source=rss-bcf029f2b23f------2)
 - [John McCarthy — A Mind Behind Artificial Intelligence](https://medium.com/@ed.wacc1995/john-mccarthy-a-mind-behind-artificial-intelligence-0e4d77f473f5?source=rss-bcf029f2b23f------2)
 - [Dennis MacAlistair Ritchie — The C and Unix Legacy](https://medium.com/@ed.wacc1995/dennis-macalistair-ritchie-the-c-and-unix-legacy-87207474099e?source=rss-bcf029f2b23f------2)
-- [Claude Shannon: The Man Who Measured Information](https://medium.com/@ed.wacc1995/claude-shannon-the-man-who-measured-information-7eb926021c9f?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
