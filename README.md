@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a Cryptocurrency? &lpar;ELI5 with a fantasy story&rpar;](https://medium.com/@ed.wacc1995/what-is-a-cryptocurrency-eli5-with-a-fantasy-story-ac0cbad6b235?source=rss-bcf029f2b23f------2)
 - [What is a Blockchain? &lpar;ELI5&rpar;](https://medium.com/@ed.wacc1995/what-is-a-blockchain-eli5-96dbef1311ef?source=rss-bcf029f2b23f------2)
 - [How Cardano Propagates Blocks and Transactions](https://medium.com/@ed.wacc1995/how-cardano-propagates-blocks-and-transactions-ae2694cce29a?source=rss-bcf029f2b23f------2)
 - [Donald Davies — Paving the Road for the Internet](https://medium.com/@ed.wacc1995/donald-davies-paving-the-road-for-the-internet-d8fb7cde1361?source=rss-bcf029f2b23f------2)
 - [Marvin Minsky — Insights into AI and the Human Mind](https://medium.com/@ed.wacc1995/marvin-minsky-insights-into-ai-and-the-human-mind-58fc9f0d1849?source=rss-bcf029f2b23f------2)
-- [Alan Kay — Inventing the Future of Programming](https://medium.com/@ed.wacc1995/alan-kay-inventing-the-future-of-programming-dfe97ed50735?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
