@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is a Cardano Node? + ELI5 examples](https://medium.com/@ed.wacc1995/what-is-a-cardano-node-eli5-examples-6d7a2c28984b?source=rss-bcf029f2b23f------2)
+- [What is a Smart Contract? &lpar;ELI5&rpar;](https://medium.com/@ed.wacc1995/what-is-a-smart-contract-eli5-61ab642a904d?source=rss-bcf029f2b23f------2)
 - [What is Proof of Stake? &lpar;ELI5 with a galactic story&rpar;](https://medium.com/@ed.wacc1995/what-is-proof-of-stake-eli5-with-a-galactic-story-f1b09f608985?source=rss-bcf029f2b23f------2)
 - [What is a Cryptocurrency? &lpar;ELI5 with a fantasy story&rpar;](https://medium.com/@ed.wacc1995/what-is-a-cryptocurrency-eli5-with-a-fantasy-story-ac0cbad6b235?source=rss-bcf029f2b23f------2)
 - [What is a Blockchain? &lpar;ELI5&rpar;](https://medium.com/@ed.wacc1995/what-is-a-blockchain-eli5-96dbef1311ef?source=rss-bcf029f2b23f------2)
-- [How Cardano Propagates Blocks and Transactions](https://medium.com/@ed.wacc1995/how-cardano-propagates-blocks-and-transactions-ae2694cce29a?source=rss-bcf029f2b23f------2)
-- [Donald Davies — Paving the Road for the Internet](https://medium.com/@ed.wacc1995/donald-davies-paving-the-road-for-the-internet-d8fb7cde1361?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
