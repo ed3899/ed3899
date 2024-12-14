@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Copy/Paste Properties From Object to Object in Figma](https://medium.com/design-bootcamp/how-to-copy-paste-properties-from-object-to-object-in-figma-e580edcc9fa5?source=rss-bcf029f2b23f------2)
 - [What are Stake Pools on Cardano? : An ELI5 Explanation](https://medium.com/@ed.wacc1995/what-are-stake-pools-on-cardano-an-eli5-explanation-d1d698fae87b?source=rss-bcf029f2b23f------2)
 - [What is a Cardano Node? + ELI5 examples](https://medium.com/@ed.wacc1995/what-is-a-cardano-node-eli5-examples-6d7a2c28984b?source=rss-bcf029f2b23f------2)
 - [What is a Smart Contract? &lpar;ELI5&rpar;](https://medium.com/@ed.wacc1995/what-is-a-smart-contract-eli5-61ab642a904d?source=rss-bcf029f2b23f------2)
 - [What is Proof of Stake? &lpar;ELI5 with a galactic story&rpar;](https://medium.com/@ed.wacc1995/what-is-proof-of-stake-eli5-with-a-galactic-story-f1b09f608985?source=rss-bcf029f2b23f------2)
-- [What is a Cryptocurrency? &lpar;ELI5 with a fantasy story&rpar;](https://medium.com/@ed.wacc1995/what-is-a-cryptocurrency-eli5-with-a-fantasy-story-ac0cbad6b235?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
