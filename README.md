@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Storybook — What the hell is a Story? &lpar;React Examples&rpar;](https://javascript.plainenglish.io/storybook-what-the-hell-is-a-story-react-examples-e0b5e6e5502b?source=rss-bcf029f2b23f------2)
+- [Interviewer: Write A Function That Always Picks The Best Move in a Game of Nim](https://medium.com/@ed.wacc1995/interviewer-write-a-function-that-always-picks-the-best-move-in-a-game-of-nim-804840d62d8d?source=rss-bcf029f2b23f------2)
 - [What To Know of the New Temporal API for JS](https://javascript.plainenglish.io/what-to-know-of-the-new-temporal-api-for-js-598acbadc91a?source=rss-bcf029f2b23f------2)
 - [The Difference Between Frames and Groups in Figma](https://medium.com/@ed.wacc1995/the-difference-between-frames-and-groups-in-figma-d9508adc6562?source=rss-bcf029f2b23f------2)
 - [How To Copy/Paste Properties From Object to Object in Figma](https://medium.com/design-bootcamp/how-to-copy-paste-properties-from-object-to-object-in-figma-e580edcc9fa5?source=rss-bcf029f2b23f------2)
-- [What are Stake Pools on Cardano? : An ELI5 Explanation](https://medium.com/@ed.wacc1995/what-are-stake-pools-on-cardano-an-eli5-explanation-d1d698fae87b?source=rss-bcf029f2b23f------2)
-- [What is a Cardano Node? + ELI5 examples](https://medium.com/@ed.wacc1995/what-is-a-cardano-node-eli5-examples-6d7a2c28984b?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
