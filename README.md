@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Interviewer: How To Merge Strings Alternatively? &lpar;Python + Typescript + Go&rpar;](https://medium.com/@ed.wacc1995/interviewer-how-to-merge-strings-alternatively-python-typescript-go-bb19e4c98d7f?source=rss-bcf029f2b23f------2)
+- [Interviewer: How To Merge Strings Alternatively? &lpar;Python + Typescript + Go&rpar;](https://javascript.plainenglish.io/interviewer-how-to-merge-strings-alternatively-python-typescript-go-bb19e4c98d7f?source=rss-bcf029f2b23f------2)
 - [Storybook — What the hell is a Story? &lpar;React Examples&rpar;](https://javascript.plainenglish.io/storybook-what-the-hell-is-a-story-react-examples-e0b5e6e5502b?source=rss-bcf029f2b23f------2)
 - [Interviewer: Write A Function That Always Picks The Best Move in a Game of Nim](https://medium.com/@ed.wacc1995/interviewer-write-a-function-that-always-picks-the-best-move-in-a-game-of-nim-804840d62d8d?source=rss-bcf029f2b23f------2)
 - [What To Know of the New Temporal API for JS](https://javascript.plainenglish.io/what-to-know-of-the-new-temporal-api-for-js-598acbadc91a?source=rss-bcf029f2b23f------2)
