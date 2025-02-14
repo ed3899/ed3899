@@ -10,11 +10,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interviewer: Kids With the Greatest Number of Candies &lpar;Typescript, Python, Go&rpar;](https://javascript.plainenglish.io/interviewer-kids-with-the-greatest-number-of-candies-typescript-python-go-db86f0f21046?source=rss-bcf029f2b23f------2)
 - [Interviewer: How to find the Greatest Common Divisor of Strings? &lpar;Typescript, Python and Go&rpar;](https://javascript.plainenglish.io/interviewer-how-to-find-the-greatest-common-divisor-of-strings-typescript-python-and-go-34f13aba5a1e?source=rss-bcf029f2b23f------2)
 - [Storybook — How to Use Decorators? &lpar;+ React Examples&rpar;](https://javascript.plainenglish.io/storybook-how-to-use-decorators-react-examples-9571d879206c?source=rss-bcf029f2b23f------2)
 - [How to use Storybook Parameters &lpar;+ React Examples&rpar;](https://javascript.plainenglish.io/how-to-use-storybook-parameters-react-examples-0aa0895f6ccd?source=rss-bcf029f2b23f------2)
 - [How to use Args in Storybook &lpar;+ React Examples&rpar;](https://javascript.plainenglish.io/how-to-use-args-in-storybook-react-examples-5359b0efe233?source=rss-bcf029f2b23f------2)
-- [Interviewer: How To Merge Strings Alternatively? &lpar;Python + Typescript + Go&rpar;](https://javascript.plainenglish.io/interviewer-how-to-merge-strings-alternatively-python-typescript-go-bb19e4c98d7f?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
