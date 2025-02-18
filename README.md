@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Flowerbed Challenge: Can You Plant Them All? &lpar;Python, Typescript, Golang&rpar;](https://medium.com/@ed.wacc1995/the-flowerbed-challenge-can-you-plant-them-all-python-typescript-golang-cdff60d5c4bc?source=rss-bcf029f2b23f------2)
+- [The Flowerbed Challenge: Can You Plant Them All? &lpar;Python, Typescript, Golang&rpar;](https://javascript.plainenglish.io/the-flowerbed-challenge-can-you-plant-them-all-python-typescript-golang-cdff60d5c4bc?source=rss-bcf029f2b23f------2)
 - [How to Reverse Vowels in a String &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/how-to-reverse-vowels-in-a-string-python-typescript-go-a5959f7bb0c1?source=rss-bcf029f2b23f------2)
 - [How To Sort Your Stories in Storybook &lpar;+React Examples&rpar;](https://javascript.plainenglish.io/how-to-sort-your-stories-in-storybook-react-examples-6ade2b5db75e?source=rss-bcf029f2b23f------2)
 - [How To Use Tags in Storybook? &lpar;+React Examples&rpar;](https://javascript.plainenglish.io/how-to-use-tags-in-storybook-react-examples-fa66248ec29d?source=rss-bcf029f2b23f------2)
