@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Grok 3 vs. ChatGPT, DeepSeek, and other AI competitors](https://medium.com/@ed.wacc1995/grok-3-vs-chatgpt-deepseek-and-other-ai-competitors-6d21e96ef619?source=rss-bcf029f2b23f------2)
 - [Can AI prevent Apple’s decline? Unveiling the iPhone 16e](https://medium.com/@ed.wacc1995/can-ai-prevent-apples-decline-unveiling-the-iphone-16e-109f1b5bfbb7?source=rss-bcf029f2b23f------2)
 - [How To Reverse Words in a String &lpar;Python, Typescript and Go&rpar;](https://javascript.plainenglish.io/how-to-reverse-words-in-a-string-python-typescript-and-go-868416287d89?source=rss-bcf029f2b23f------2)
 - [Grok 3 is here! Here’s what to know](https://medium.com/@ed.wacc1995/grok-3-is-here-heres-what-to-know-8c60f1d88cef?source=rss-bcf029f2b23f------2)
 - [I Asked My Mexican Buddy How He Lives Large on Just $3,000 USD a Month in Latin America.](https://medium.com/@ed.wacc1995/i-asked-my-mexican-buddy-how-he-lives-large-on-just-3-000-usd-a-month-in-latin-america-8a6864a9ec68?source=rss-bcf029f2b23f------2)
-- [The Flowerbed Challenge: Can You Plant Them All? &lpar;Python, Typescript, Golang&rpar;](https://javascript.plainenglish.io/the-flowerbed-challenge-can-you-plant-them-all-python-typescript-golang-cdff60d5c4bc?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
