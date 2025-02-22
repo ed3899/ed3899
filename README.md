@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is This the Future of AI and Quantum Computing? Microsoft’s Majorana 1](https://medium.com/@ed.wacc1995/is-this-the-future-of-ai-and-quantum-computing-microsofts-majorana-1-4e8fdd0168cb?source=rss-bcf029f2b23f------2)
 - [How to Get the Product of Array Except Self &lpar;Python, Typescript &amp; Go&rpar;](https://medium.com/@ed.wacc1995/how-to-get-the-product-of-array-except-self-python-typescript-go-add805f7c8dc?source=rss-bcf029f2b23f------2)
 - [Grok 3 vs. ChatGPT, DeepSeek, and other AI competitors](https://medium.com/@ed.wacc1995/grok-3-vs-chatgpt-deepseek-and-other-ai-competitors-6d21e96ef619?source=rss-bcf029f2b23f------2)
 - [Can AI prevent Apple’s decline? Unveiling the iPhone 16e](https://medium.com/@ed.wacc1995/can-ai-prevent-apples-decline-unveiling-the-iphone-16e-109f1b5bfbb7?source=rss-bcf029f2b23f------2)
 - [How To Reverse Words in a String &lpar;Python, Typescript and Go&rpar;](https://javascript.plainenglish.io/how-to-reverse-words-in-a-string-python-typescript-and-go-868416287d89?source=rss-bcf029f2b23f------2)
-- [Grok 3 is here! Here’s what to know](https://medium.com/@ed.wacc1995/grok-3-is-here-heres-what-to-know-8c60f1d88cef?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
