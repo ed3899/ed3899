@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Ukraine’s Minerals Are so Important For AI and Quantum Computing.](https://medium.com/@ed.wacc1995/why-ukraines-minerals-are-so-important-for-ai-and-quantum-computing-c4d1b284d7eb?source=rss-bcf029f2b23f------2)
 - [AI and Productivity: Is It Helping or Hurting?](https://medium.com/@ed.wacc1995/ai-and-productivity-is-it-helping-or-hurting-ed72cbe4be3f?source=rss-bcf029f2b23f------2)
 - [Is This the Future of AI and Quantum Computing? Microsoft’s Majorana 1](https://medium.com/@ed.wacc1995/is-this-the-future-of-ai-and-quantum-computing-microsofts-majorana-1-4e8fdd0168cb?source=rss-bcf029f2b23f------2)
 - [How to Get the Product of Array Except Self &lpar;Python, Typescript &amp; Go&rpar;](https://medium.com/@ed.wacc1995/how-to-get-the-product-of-array-except-self-python-typescript-go-add805f7c8dc?source=rss-bcf029f2b23f------2)
 - [Grok 3 vs. ChatGPT, DeepSeek, and other AI competitors](https://medium.com/@ed.wacc1995/grok-3-vs-chatgpt-deepseek-and-other-ai-competitors-6d21e96ef619?source=rss-bcf029f2b23f------2)
-- [Can AI prevent Apple’s decline? Unveiling the iPhone 16e](https://medium.com/@ed.wacc1995/can-ai-prevent-apples-decline-unveiling-the-iphone-16e-109f1b5bfbb7?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
