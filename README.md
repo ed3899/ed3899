@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Earnings Reveal AI Crossroads: Can Jensen Huang’s 8 Words Silence Doubters?](https://medium.com/@ed.wacc1995/nvidia-earnings-reveal-ai-crossroads-can-jensen-huangs-8-words-silence-doubters-670e60cf9dea?source=rss-bcf029f2b23f------2)
 - [Trump’s Gaza Video and Its Technological Underpinnings. AI, Politics, and Quantum Ambition](https://medium.com/@ed.wacc1995/the-convergence-of-ai-politics-and-quantum-ambition-decoding-trumps-gaza-video-and-its-ab2663575f9b?source=rss-bcf029f2b23f------2)
 - [Trump’s $5 Million Gold Card: A Tech Sector Game-Changer for AI and Quantum Dominance?](https://medium.com/@ed.wacc1995/trumps-5-million-gold-card-a-tech-sector-game-changer-for-ai-and-quantum-dominance-90b097eecaab?source=rss-bcf029f2b23f------2)
 - [Apple’s Bold $500 Billion U.S. Investment: A New Era for American Innovation?](https://medium.com/@ed.wacc1995/apples-bold-500-billion-u-s-investment-a-new-era-for-american-innovation-e2aacdd419fd?source=rss-bcf029f2b23f------2)
 - [Why Ukraine’s Minerals Are so Important For AI and Quantum Computing.](https://medium.com/@ed.wacc1995/why-ukraines-minerals-are-so-important-for-ai-and-quantum-computing-c4d1b284d7eb?source=rss-bcf029f2b23f------2)
-- [AI and Productivity: Is It Helping or Hurting?](https://medium.com/@ed.wacc1995/ai-and-productivity-is-it-helping-or-hurting-ed72cbe4be3f?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
