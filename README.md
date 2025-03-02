@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Trump’s Crypto Reserve Shakes Markets: XRP, Solana, Cardano Soar Up to 50%](https://medium.com/@ed.wacc1995/trumps-crypto-reserve-shakes-markets-xrp-solana-cardano-soar-up-to-50-d6992d1fc35a?source=rss-bcf029f2b23f------2)
 - [Goodbye Skype! Thank you! Let’s Learn From Your Journey](https://medium.com/@ed.wacc1995/goodbye-skype-thank-you-lets-learn-from-your-journey-66a7bc98779a?source=rss-bcf029f2b23f------2)
 - [The Spyware Epidemic: How AI and Blockchain Are Shaping the Future of Mobile Security](https://medium.com/@ed.wacc1995/the-spyware-epidemic-how-ai-and-blockchain-are-shaping-the-future-of-mobile-security-43237219c99e?source=rss-bcf029f2b23f------2)
 - [Your AI Startup is Doomed to Fail If You Don’t Read This](https://medium.com/@ed.wacc1995/your-ai-startup-is-doomed-to-fail-if-you-dont-read-this-43362522af5a?source=rss-bcf029f2b23f------2)
 - [Nvidia Earnings Reveal AI Crossroads: Can Jensen Huang’s 8 Words Silence Doubters?](https://medium.com/@ed.wacc1995/nvidia-earnings-reveal-ai-crossroads-can-jensen-huangs-8-words-silence-doubters-670e60cf9dea?source=rss-bcf029f2b23f------2)
-- [Trump’s Gaza Video and Its Technological Underpinnings. AI, Politics, and Quantum Ambition](https://medium.com/@ed.wacc1995/the-convergence-of-ai-politics-and-quantum-ambition-decoding-trumps-gaza-video-and-its-ab2663575f9b?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
