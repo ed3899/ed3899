@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Will Quantum Databases Shatter the CAP Theorem? Exploring the Future of Distributed Systems](https://medium.com/@ed.wacc1995/will-quantum-databases-shatter-the-cap-theorem-exploring-the-future-of-distributed-systems-9bc4c5d1fec7?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Find the Highest Altitude &lpar;TS, Python, Go &amp; Rust&rpar;](https://javascript.plainenglish.io/dsa-easy-find-the-highest-altitude-3a12429eef69?source=rss-bcf029f2b23f------2)
 - [A Tale of the Senior who became a Junior](https://medium.com/lets-code-future/a-tale-of-the-senior-who-became-a-junior-a5b8fcfbc606?source=rss-bcf029f2b23f------2)
 - [A Tale of Two Devs. The Hedgehog and the Fox](https://medium.com/lets-code-future/a-tale-of-two-devs-the-hedgehog-and-the-fox-4bbda6e08798?source=rss-bcf029f2b23f------2)
 - [The Developer’s Creed](https://medium.com/lets-code-future/the-developers-creed-37dba8bccd52?source=rss-bcf029f2b23f------2)
-- [Trump’s Crypto Reserve Shakes Markets: XRP, Solana, Cardano Soar Up to 50%](https://medium.com/@ed.wacc1995/trumps-crypto-reserve-shakes-markets-xrp-solana-cardano-soar-up-to-50-d6992d1fc35a?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
