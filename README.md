@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Governments Fear Blockchain](https://medium.com/@ed.wacc1995/why-governments-fear-blockchain-74013dbf5f5c?source=rss-bcf029f2b23f------2)
+- [Why Taylor Swift Fans Need Blockchain](https://medium.com/lets-code-future/how-blockchain-could-have-prevented-the-635k-taylor-swift-ticket-scam-78370a462633?source=rss-bcf029f2b23f------2)
+- [Why Governments Fear Blockchain](https://medium.com/lets-code-future/why-governments-fear-blockchain-74013dbf5f5c?source=rss-bcf029f2b23f------2)
 - [DAS &lpar;Easy&rpar; — Find the Difference of Two Arrays &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/das-easy-find-the-difference-of-two-arrays-python-typescript-go-67d7cbe31402?source=rss-bcf029f2b23f------2)
 - [How LATAM Devs Are Beating US Devs](https://medium.com/lets-code-future/how-latam-devs-are-beating-us-devs-193c54c78eaf?source=rss-bcf029f2b23f------2)
 - [What Would It Take For Bitcoin to Dethrone the US Dollar?](https://medium.com/lets-code-future/what-would-it-take-for-bitcoin-to-dethrone-the-us-dollar-7b6493e5331d?source=rss-bcf029f2b23f------2)
-- [DSA &lpar;Easy&rpar; — Find Pivot Index](https://javascript.plainenglish.io/dsa-easy-find-pivot-index-17794e2987f3?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
