@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DAS &lpar;Easy&rpar; — Unique Number of Occurrences &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/das-easy-unique-number-of-occurrences-python-ts-go-6db3f952e878?source=rss-bcf029f2b23f------2)
+- [DSA &lpar;Medium&rpar; — Determine if Two Strings Are Close &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-determine-if-two-strings-are-close-python-ts-go-359a9323e3f9?source=rss-bcf029f2b23f------2)
+- [DSA &lpar;Easy&rpar; — Unique Number of Occurrences &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/das-easy-unique-number-of-occurrences-python-ts-go-6db3f952e878?source=rss-bcf029f2b23f------2)
 - [Why Taylor Swift Fans Need Blockchain](https://medium.com/lets-code-future/how-blockchain-could-have-prevented-the-635k-taylor-swift-ticket-scam-78370a462633?source=rss-bcf029f2b23f------2)
 - [Why Governments Fear Blockchain](https://medium.com/lets-code-future/why-governments-fear-blockchain-74013dbf5f5c?source=rss-bcf029f2b23f------2)
-- [DAS &lpar;Easy&rpar; — Find the Difference of Two Arrays &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/das-easy-find-the-difference-of-two-arrays-python-typescript-go-67d7cbe31402?source=rss-bcf029f2b23f------2)
-- [How LATAM Devs Are Beating US Devs](https://medium.com/lets-code-future/how-latam-devs-are-beating-us-devs-193c54c78eaf?source=rss-bcf029f2b23f------2)
+- [DSA &lpar;Easy&rpar; — Find the Difference of Two Arrays &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/das-easy-find-the-difference-of-two-arrays-python-typescript-go-67d7cbe31402?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
