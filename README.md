@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [sudo rogue — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-git-commit-am-genesis-6673b31af57b?source=rss-bcf029f2b23f------2)
+- [sudo rogue — v1.0.0 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-git-commit-am-genesis-6673b31af57b?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Equal Row and Column Pairs &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/das-medium-equal-row-and-column-pairs-python-ts-go-f0c151336447?source=rss-bcf029f2b23f------2)
 - [Meaning vs Money](https://blog.devgenius.io/meaning-vs-money-0367465aff61?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Determine if Two Strings Are Close &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-determine-if-two-strings-are-close-python-ts-go-359a9323e3f9?source=rss-bcf029f2b23f------2)
