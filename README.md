@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Timothy C. May — The Privacy Crusader](https://medium.com/@ed.wacc1995/timothy-c-may-the-privacy-crusader-139dfb365de7?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Asteroid Collision &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-asteroid-collision-python-typescript-go-e64f3f1c3a51?source=rss-bcf029f2b23f------2)
 - [insomnia.exe](https://medium.com/@ed.wacc1995/insomnia-exe-c2809cdeb326?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Stack — Removing Stars From a String &lpar;Python, Typescript &amp; Go&rpar;](https://medium.com/@ed.wacc1995/dsa-medium-stack-removing-stars-from-a-string-python-typescript-go-a4e80fc9d79e?source=rss-bcf029f2b23f------2)
 - [sudo rogue — v1.0.0 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-git-commit-am-genesis-6673b31af57b?source=rss-bcf029f2b23f------2)
-- [DSA &lpar;Medium&rpar; — Equal Row and Column Pairs &lpar;Python, TS &amp; Go&rpar;](https://javascript.plainenglish.io/das-medium-equal-row-and-column-pairs-python-ts-go-f0c151336447?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
