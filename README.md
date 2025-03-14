@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DSA &lpar;Easy&rpar; — Queue — Number of Recent Calls](https://medium.com/@ed.wacc1995/dsa-easy-queue-number-of-recent-calls-86919b53f166?source=rss-bcf029f2b23f------2)
 - [Kyiv.exe](https://medium.com/@ed.wacc1995/kyiv-exe-2ecb7232283e?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; —  Stack  — Decode String](https://javascript.plainenglish.io/dsa-medium-stack-decode-string-fcb51f415482?source=rss-bcf029f2b23f------2)
 - [Timothy C. May — The Privacy Crusader](https://medium.com/@ed.wacc1995/timothy-c-may-the-privacy-crusader-139dfb365de7?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Asteroid Collision &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-asteroid-collision-python-typescript-go-e64f3f1c3a51?source=rss-bcf029f2b23f------2)
-- [insomnia.exe](https://medium.com/@ed.wacc1995/insomnia-exe-c2809cdeb326?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
