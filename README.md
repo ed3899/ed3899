@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [sudo rogue — v1.0.1 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-1-git-commit-am-genesis-bfac5f3da7c0?source=rss-bcf029f2b23f------2)
 - [Why Am I Doing This?](https://medium.com/@ed.wacc1995/why-am-i-doing-this-d4790097522c?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Queue — Number of Recent Calls](https://medium.com/@ed.wacc1995/dsa-easy-queue-number-of-recent-calls-86919b53f166?source=rss-bcf029f2b23f------2)
 - [Kyiv.exe](https://medium.com/@ed.wacc1995/kyiv-exe-2ecb7232283e?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; —  Stack  — Decode String](https://javascript.plainenglish.io/dsa-medium-stack-decode-string-fcb51f415482?source=rss-bcf029f2b23f------2)
-- [Timothy C. May — The Privacy Crusader](https://medium.com/@ed.wacc1995/timothy-c-may-the-privacy-crusader-139dfb365de7?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
