@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [DSA &lpar;Medium&rpar; —Linked List — Odd Even Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://medium.com/@ed.wacc1995/dsa-medium-linked-list-odd-even-linked-list-python-typescript-go-b1ed08212b93?source=rss-bcf029f2b23f------2)
+- [DSA &lpar;Medium&rpar; —Linked List — Odd Even Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-linked-list-odd-even-linked-list-python-typescript-go-b1ed08212b93?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Linked List — Delete the Middle Node of a Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-linked-list-delete-the-middle-node-of-a-linked-list-python-typescript-go-c876f39adff5?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Queue — Dota2 Senate](https://javascript.plainenglish.io/dsa-medium-queue-dota2-senate-cb1f63c3d199?source=rss-bcf029f2b23f------2)
 - [sudo rogue — v1.0.1 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-1-git-commit-am-genesis-bfac5f3da7c0?source=rss-bcf029f2b23f------2)
