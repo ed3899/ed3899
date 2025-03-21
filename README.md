@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why K8s Is One Of The Greatest Lies You’ve Been Sold](https://medium.com/@ed.wacc1995/why-k8s-is-one-of-the-greatest-lies-youve-been-sold-edd65bd26314?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Linked List — Maximum Twin Sum of a Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-linked-list-maximum-twin-sum-of-a-linked-list-python-typescript-go-e523735cf859?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; —Linked List — Reverse Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-linked-list-reverse-linked-list-python-typescript-go-881000079133?source=rss-bcf029f2b23f------2)
 - [sudo rogue — v1.0.2 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-2-git-commit-am-genesis-89d8999282e5?source=rss-bcf029f2b23f------2)
 - [3 Types of Redirects Explained](https://javascript.plainenglish.io/3-types-of-redirects-explained-3a2542bc34ba?source=rss-bcf029f2b23f------2)
-- [DSA &lpar;Medium&rpar; —Linked List — Odd Even Linked List &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-linked-list-odd-even-linked-list-python-typescript-go-b1ed08212b93?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
