@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DSA &lpar;Easy&rpar; — Binary Tree — Leaf-Similar Trees &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-binary-tree-leaf-similar-trees-python-typescript-go-afaedaa18c73?source=rss-bcf029f2b23f------2)
 - [sudo rogue — v1.0.3 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-3-git-commit-am-genesis-544a5a47e64c?source=rss-bcf029f2b23f------2)
 - [“docker stack” vs “docker service” vs “docker run”](https://blog.devgenius.io/docker-stack-vs-docker-service-vs-docker-run-1a79ff028b77?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Binary Tree — Maximum Depth of Binary Tree &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-binary-tree-maximum-depth-of-binary-tree-python-typescript-go-c7a6338a5ab4?source=rss-bcf029f2b23f------2)
 - [Why True Artificial General Intelligence Requires Quantum Computing](https://blog.devgenius.io/why-true-artificial-general-intelligence-requires-quantum-computing-03d7ba497f90?source=rss-bcf029f2b23f------2)
-- [Why Dokploy Matters](https://blog.devgenius.io/why-dokploy-matters-1e1daf82a5a2?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
