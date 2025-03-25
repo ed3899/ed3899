@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Docker Swarm Quorum Explained: Why Odd Numbers Matter](https://blog.devgenius.io/docker-swarm-quorum-explained-why-odd-numbers-matter-bce683a45cea?source=rss-bcf029f2b23f------2)
+- [Docker Swarm Quorum Explained: Why Odd Numbers Matter](https://medium.com/@ed.wacc1995/docker-swarm-quorum-explained-why-odd-numbers-matter-bce683a45cea?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Binary Tree — Leaf-Similar Trees &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-binary-tree-leaf-similar-trees-python-typescript-go-afaedaa18c73?source=rss-bcf029f2b23f------2)
 - [sudo rogue — v1.0.3 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-3-git-commit-am-genesis-544a5a47e64c?source=rss-bcf029f2b23f------2)
 - [“docker stack” vs “docker service” vs “docker run”](https://blog.devgenius.io/docker-stack-vs-docker-service-vs-docker-run-1a79ff028b77?source=rss-bcf029f2b23f------2)
