@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is “docker commit”?](https://blog.devgenius.io/what-is-docker-commit-d2afcfb02283?source=rss-bcf029f2b23f------2)
+- [DSA &lpar;Medium&rpar; — Binary Tree — Count Good Nodes in Binary Tree &lpar;Python, Typescript &amp; Rust&rpar;](https://javascript.plainenglish.io/dsa-medium-binary-tree-count-good-nodes-in-binary-tree-python-typescript-rust-c2499c549c94?source=rss-bcf029f2b23f------2)
 - [Why Blockchain is the Anti-Thesis of Capitalism](https://blog.devgenius.io/why-blockchain-is-the-anti-thesis-of-capitalism-1d4e8e2c56ce?source=rss-bcf029f2b23f------2)
 - [Docker Swarm Quorum Explained: Why Odd Numbers Matter](https://medium.com/@ed.wacc1995/docker-swarm-quorum-explained-why-odd-numbers-matter-bce683a45cea?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Binary Tree — Leaf-Similar Trees &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-binary-tree-leaf-similar-trees-python-typescript-go-afaedaa18c73?source=rss-bcf029f2b23f------2)
-- [sudo rogue — v1.0.3 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-3-git-commit-am-genesis-544a5a47e64c?source=rss-bcf029f2b23f------2)
-- [“docker stack” vs “docker service” vs “docker run”](https://blog.devgenius.io/docker-stack-vs-docker-service-vs-docker-run-1a79ff028b77?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
