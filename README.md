@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Docker Overlay Network and the “docker_gwbridge” Explained](https://blog.devgenius.io/the-docker-overlay-network-and-the-docker-gwbridge-explained-56d59667bfb9?source=rss-bcf029f2b23f------2)
-- [Go to Get a Job, Rust to Change the Status Quo](https://blog.devgenius.io/go-to-get-a-job-rust-to-change-the-status-quo-8956d3e4d8d9?source=rss-bcf029f2b23f------2)
+- [Go to Get a Job, Rust to Change the Status Quo](https://medium.com/@ed.wacc1995/go-to-get-a-job-rust-to-change-the-status-quo-8956d3e4d8d9?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Binary Search](https://javascript.plainenglish.io/dsa-easy-binary-search-f816680f6e04?source=rss-bcf029f2b23f------2)
 - [What is “docker commit”?](https://blog.devgenius.io/what-is-docker-commit-d2afcfb02283?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Tree — Count Good Nodes in Binary Tree &lpar;Python, Typescript &amp; Rust&rpar;](https://javascript.plainenglish.io/dsa-medium-binary-tree-count-good-nodes-in-binary-tree-python-typescript-rust-c2499c549c94?source=rss-bcf029f2b23f------2)
