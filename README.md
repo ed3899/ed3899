@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why TikTok’s Success Makes GenZ Devs Happy And Terrifies US BigTech](https://medium.com/@ed.wacc1995/why-tiktoks-success-makes-genz-devs-happy-and-terrifies-us-bigtech-fb24498fb92e?source=rss-bcf029f2b23f------2)
 - [Why Fighting AI Content Is Like The Drug War](https://medium.com/@ed.wacc1995/why-fighting-ai-content-is-like-the-drug-war-c0c3de386fce?source=rss-bcf029f2b23f------2)
 - [WTH is a Headless Platform?!](https://medium.com/@ed.wacc1995/wth-is-a-headless-platform-a111a7d0e5ec?source=rss-bcf029f2b23f------2)
 - [F*ck Leetcode! Why Roy’s Story Matters](https://blog.devgenius.io/f-ck-leetcode-why-roys-story-matters-a6da9fb15e97?source=rss-bcf029f2b23f------2)
 - [The Docker Overlay Network and the “docker_gwbridge” Explained](https://blog.devgenius.io/the-docker-overlay-network-and-the-docker-gwbridge-explained-56d59667bfb9?source=rss-bcf029f2b23f------2)
-- [Go to Get a Job, Rust to Change the Status Quo](https://medium.com/@ed.wacc1995/go-to-get-a-job-rust-to-change-the-status-quo-8956d3e4d8d9?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
