@@ -15,9 +15,9 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 <!-- BLOG-POST-LIST:START -->
 - [DSA &lpar;Medium&rpar; — General — Print A Diamond Shape](https://javascript.plainenglish.io/dsa-medium-general-print-a-diamond-shape-ada7fcb0535d?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Tree — Binary Tree Right Side View &lpar;Typescript, Python &amp; Rust&rpar;](https://javascript.plainenglish.io/dsa-medium-binary-tree-binary-tree-right-side-view-90e8246b56fd?source=rss-bcf029f2b23f------2)
-- [DaF*ck is “— default-addr-pool” and “ — default-addr-pool-mask-len” in Docker](https://blog.devgenius.io/daf-ck-is-default-addr-pool-and-default-addr-pool-mask-len-in-docker-ef0fb0a5994d?source=rss-bcf029f2b23f------2)
+- [DaF*ck is “— default-addr-pool” and “ — default-addr-pool-mask-len” in Docker](https://medium.com/@ed.wacc1995/daf-ck-is-default-addr-pool-and-default-addr-pool-mask-len-in-docker-ef0fb0a5994d?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Tree — Lowest Common Ancestor of a Binary Tree](https://javascript.plainenglish.io/dsa-medium-binary-tree-lowest-common-ancestor-of-a-binary-tree-827290b1e9f1?source=rss-bcf029f2b23f------2)
-- [Why TikTok’s Success Makes GenZ Devs Happy And Terrifies US BigTech](https://blog.devgenius.io/why-tiktoks-success-makes-genz-devs-happy-and-terrifies-us-bigtech-fb24498fb92e?source=rss-bcf029f2b23f------2)
+- [Why TikTok’s Success Makes GenZ Devs Happy And Terrifies US BigTech](https://medium.com/@ed.wacc1995/why-tiktoks-success-makes-genz-devs-happy-and-terrifies-us-bigtech-fb24498fb92e?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
