@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DSA &lpar;Medium&rpar; — Binary Tree — Binary Tree Right Side View](https://javascript.plainenglish.io/dsa-medium-binary-tree-binary-tree-right-side-view-90e8246b56fd?source=rss-bcf029f2b23f------2)
 - [DaF*ck is “— default-addr-pool” and “ — default-addr-pool-mask-len” in Docker](https://blog.devgenius.io/daf-ck-is-default-addr-pool-and-default-addr-pool-mask-len-in-docker-ef0fb0a5994d?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Tree — Lowest Common Ancestor of a Binary Tree](https://javascript.plainenglish.io/dsa-medium-binary-tree-lowest-common-ancestor-of-a-binary-tree-827290b1e9f1?source=rss-bcf029f2b23f------2)
 - [Why TikTok’s Success Makes GenZ Devs Happy And Terrifies US BigTech](https://blog.devgenius.io/why-tiktoks-success-makes-genz-devs-happy-and-terrifies-us-bigtech-fb24498fb92e?source=rss-bcf029f2b23f------2)
 - [Why Fighting AI Content Is Like The Drug War](https://blog.devgenius.io/why-fighting-ai-content-is-like-the-drug-war-c0c3de386fce?source=rss-bcf029f2b23f------2)
-- [WTH is a Headless Platform?!](https://medium.com/@ed.wacc1995/wth-is-a-headless-platform-a111a7d0e5ec?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
