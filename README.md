@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [sudo rogue — v1.0.4 — git commit -am “genesis”](https://medium.com/@ed.wacc1995/sudo-rogue-v1-0-4-git-commit-am-genesis-7956c25fcf63?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Search Tree — Delete Node in a BST &lpar;Python, Typescript &amp; Go&rpar;](https://medium.com/@ed.wacc1995/dsa-medium-binary-search-tree-delete-node-in-a-bst-python-typescript-go-5ee05967cf10?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Easy&rpar; — Binary Search Tree — Search in a Binary Search Tree &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-easy-binary-search-tree-search-in-a-binary-search-tree-python-typescript-go-eb0400e6f0d4?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Binary Tree — Maximum Level Sum of a Binary Tree &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-binary-tree-maximum-level-sum-of-a-binary-tree-python-typescript-go-9426e5d9d4ba?source=rss-bcf029f2b23f------2)
 - [Why Trump and Elon Hate Remote Work](https://medium.com/@ed.wacc1995/why-trump-and-elon-hate-remote-work-c0bddaa91317?source=rss-bcf029f2b23f------2)
-- [DSA &lpar;Medium&rpar; — General — Print A Diamond Shape](https://javascript.plainenglish.io/dsa-medium-general-print-a-diamond-shape-ada7fcb0535d?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
