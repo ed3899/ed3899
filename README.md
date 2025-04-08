@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Locking Down Your Website with Traefik: A Beginner-Friendly Guide to TLS](https://medium.com/@ed.wacc1995/locking-down-your-website-with-traefik-a-beginner-friendly-guide-to-tls-f3b863f34c48?source=rss-bcf029f2b23f------2)
 - [DSA &lpar;Medium&rpar; — Graph — Keys and Rooms &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-graph-keys-and-rooms-python-typescript-go-de3c117f4af1?source=rss-bcf029f2b23f------2)
 - [The Price Dan Price Paid For Trying to Change The Tech World](https://medium.com/@ed.wacc1995/the-price-dan-price-paid-for-trying-to-change-the-tech-world-60535daf8220?source=rss-bcf029f2b23f------2)
 - [What is ProxyProtocol in Traefik? &lpar;+ Concrete Examples&rpar;](https://medium.com/@ed.wacc1995/what-is-proxyprotocol-in-traefik-concrete-examples-ccde57e9e9e9?source=rss-bcf029f2b23f------2)
 - [Why “transport.lifecycle” Exists in Traefik? &lpar;+ Concrete Examples&rpar;](https://medium.com/@ed.wacc1995/why-transport-lifecycle-exists-in-traefik-concrete-examples-8636f0c7769d?source=rss-bcf029f2b23f------2)
-- [Why “ReusePort” is Needed in Traefik?](https://medium.com/@ed.wacc1995/why-reuseport-is-needed-in-traefik-668aadd46d46?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
