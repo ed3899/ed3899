@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Trump’s Tariffs May Crumble US Tech](https://medium.com/@ed.wacc1995/how-trumps-tariffs-may-crumble-us-tech-1855dbaca844?source=rss-bcf029f2b23f------2)
+- [Let’s Understand CPU vs Memory &lpar;+Node.js Examples&rpar;](https://medium.com/@ed.wacc1995/lets-understand-cpu-vs-memory-node-js-examples-32edc6f4d1b4?source=rss-bcf029f2b23f------2)
 - [Everyone Wants The Senior, Nobody Wants To Nourish One](https://medium.com/@ed.wacc1995/everyone-wants-the-senior-nobody-wants-to-nourish-one-52b0746fcdd1?source=rss-bcf029f2b23f------2)
 - [A Simple Guide to Traefik Router Observability &lpar;+ Concrete Examples Using Docker Swarm + AWS&rpar;](https://medium.com/@ed.wacc1995/a-simple-guide-to-traefik-router-observability-concrete-examples-using-docker-swarm-aws-1e798b2b0578?source=rss-bcf029f2b23f------2)
 - [Locking Down Your Website with Traefik: A Beginner-Friendly Guide to TLS](https://medium.com/@ed.wacc1995/locking-down-your-website-with-traefik-a-beginner-friendly-guide-to-tls-f3b863f34c48?source=rss-bcf029f2b23f------2)
-- [DSA &lpar;Medium&rpar; — Graph — Keys and Rooms &lpar;Python, Typescript &amp; Go&rpar;](https://javascript.plainenglish.io/dsa-medium-graph-keys-and-rooms-python-typescript-go-de3c117f4af1?source=rss-bcf029f2b23f------2)
-- [The Price Dan Price Paid For Trying to Change The Tech World](https://medium.com/@ed.wacc1995/the-price-dan-price-paid-for-trying-to-change-the-tech-world-60535daf8220?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
