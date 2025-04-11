@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One Of The Few PaaS I Endorse](https://medium.com/@ed.wacc1995/one-of-the-few-paas-i-endorse-4a3b4fcb9b81?source=rss-bcf029f2b23f------2)
 - [What Kevin O’Leary Can Teach You About Grifting in Tech](https://medium.com/@ed.wacc1995/what-kevin-oleary-can-teach-you-about-grifting-in-tech-47f068f269f1?source=rss-bcf029f2b23f------2)
 - [How Trump’s Tariffs May Crumble US Tech](https://medium.com/@ed.wacc1995/how-trumps-tariffs-may-crumble-us-tech-1855dbaca844?source=rss-bcf029f2b23f------2)
 - [Let’s Understand CPU vs Memory &lpar;+Node.js Examples&rpar;](https://medium.com/@ed.wacc1995/lets-understand-cpu-vs-memory-node-js-examples-32edc6f4d1b4?source=rss-bcf029f2b23f------2)
 - [Everyone Wants The Senior, Nobody Wants To Nourish One](https://medium.com/@ed.wacc1995/everyone-wants-the-senior-nobody-wants-to-nourish-one-52b0746fcdd1?source=rss-bcf029f2b23f------2)
-- [A Simple Guide to Traefik Router Observability &lpar;+ Concrete Examples Using Docker Swarm + AWS&rpar;](https://medium.com/@ed.wacc1995/a-simple-guide-to-traefik-router-observability-concrete-examples-using-docker-swarm-aws-1e798b2b0578?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
