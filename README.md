@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Open Source is the Foundation for Building Valuable Software](https://blog.devgenius.io/why-open-source-is-the-foundation-for-building-valuable-software-d836c37111b7?source=rss-bcf029f2b23f------2)
 - [The Art Of The Flip Flop](https://medium.com/@ed.wacc1995/the-art-of-the-flip-flop-fec9205d7fe5?source=rss-bcf029f2b23f------2)
 - [Vibe Coding Like The 2000&#39;s](https://medium.com/@ed.wacc1995/vibe-coding-like-the-2000s-44fee47a6b77?source=rss-bcf029f2b23f------2)
 - [Threads vs Processes: How Node.js, Elixir, and Go Handle Concurrency Differently](https://medium.com/@ed.wacc1995/threads-vs-processes-how-node-js-elixir-and-go-handle-concurrency-differently-c79836bbfc9f?source=rss-bcf029f2b23f------2)
 - [One Of The Few PaaS I Endorse](https://medium.com/@ed.wacc1995/one-of-the-few-paas-i-endorse-4a3b4fcb9b81?source=rss-bcf029f2b23f------2)
-- [What Kevin O’Leary Can Teach You About Grifting in Tech](https://medium.com/@ed.wacc1995/what-kevin-oleary-can-teach-you-about-grifting-in-tech-47f068f269f1?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
