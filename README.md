@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Theodore Roosevelt vs. Donald Trump](https://medium.com/@ed.wacc1995/theodore-roosevelt-vs-donald-trump-02ac7f121afc?source=rss-bcf029f2b23f------2)
 - [Left vs Right? No! It Is Rich vs Poor](https://medium.com/@ed.wacc1995/left-vs-right-no-it-is-rich-vs-poor-0b4b0675e05e?source=rss-bcf029f2b23f------2)
 - [Why Open Source is the Foundation for Building Valuable Software](https://blog.devgenius.io/why-open-source-is-the-foundation-for-building-valuable-software-d836c37111b7?source=rss-bcf029f2b23f------2)
 - [The Art Of The Flip Flop](https://medium.com/@ed.wacc1995/the-art-of-the-flip-flop-fec9205d7fe5?source=rss-bcf029f2b23f------2)
 - [Vibe Coding Like The 2000&#39;s](https://medium.com/@ed.wacc1995/vibe-coding-like-the-2000s-44fee47a6b77?source=rss-bcf029f2b23f------2)
-- [Threads vs Processes: How Node.js, Elixir, and Go Handle Concurrency Differently](https://medium.com/@ed.wacc1995/threads-vs-processes-how-node-js-elixir-and-go-handle-concurrency-differently-c79836bbfc9f?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
