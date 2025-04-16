@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Big Tech Monopolies: Gilded Age 2.0](https://medium.com/@ed.wacc1995/big-tech-monopolies-gilded-age-2-0-4bc45ceb59c3?source=rss-bcf029f2b23f------2)
 - [Theodore Roosevelt vs. Donald Trump](https://medium.com/@ed.wacc1995/theodore-roosevelt-vs-donald-trump-02ac7f121afc?source=rss-bcf029f2b23f------2)
 - [Left vs Right? No! It Is Rich vs Poor](https://medium.com/@ed.wacc1995/left-vs-right-no-it-is-rich-vs-poor-0b4b0675e05e?source=rss-bcf029f2b23f------2)
 - [Why Open Source is the Foundation for Building Valuable Software](https://blog.devgenius.io/why-open-source-is-the-foundation-for-building-valuable-software-d836c37111b7?source=rss-bcf029f2b23f------2)
 - [The Art Of The Flip Flop](https://medium.com/@ed.wacc1995/the-art-of-the-flip-flop-fec9205d7fe5?source=rss-bcf029f2b23f------2)
-- [Vibe Coding Like The 2000&#39;s](https://medium.com/@ed.wacc1995/vibe-coding-like-the-2000s-44fee47a6b77?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
