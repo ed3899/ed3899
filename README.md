@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Is This Trump’s Masterplan?](https://medium.com/@ed.wacc1995/is-this-trumps-masterplan-cbd4831db2e5?source=rss-bcf029f2b23f------2)
 - [Put A Limit To Your Ambitions](https://medium.com/@ed.wacc1995/put-a-limit-to-your-ambitions-d2972d06029e?source=rss-bcf029f2b23f------2)
 - [Chimera Ants: Ego And Governance](https://medium.com/@ed.wacc1995/chimera-ants-ego-and-governance-6c1975a39e0c?source=rss-bcf029f2b23f------2)
 - [Big Tech Monopolies: Gilded Age 2.0](https://medium.com/@ed.wacc1995/big-tech-monopolies-gilded-age-2-0-4bc45ceb59c3?source=rss-bcf029f2b23f------2)
 - [Theodore Roosevelt vs. Donald Trump](https://medium.com/@ed.wacc1995/theodore-roosevelt-vs-donald-trump-02ac7f121afc?source=rss-bcf029f2b23f------2)
-- [Left vs Right? No! It Is Rich vs Poor](https://medium.com/@ed.wacc1995/left-vs-right-no-it-is-rich-vs-poor-0b4b0675e05e?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
