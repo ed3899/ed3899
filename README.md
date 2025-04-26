@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Temperature vs. Top-P In Less Than 3 Minutes](https://medium.com/@ed.wacc1995/temperature-vs-top-p-in-less-than-3-minutes-3d91b5965052?source=rss-bcf029f2b23f------2)
 - [Forget Go and Rust. The Future Is Carbon](https://medium.com/@ed.wacc1995/forget-go-and-rust-the-future-is-carbon-0ff74be825c1?source=rss-bcf029f2b23f------2)
 - [Why Supabase Matters](https://blog.devgenius.io/why-supabase-matters-a9f202de5822?source=rss-bcf029f2b23f------2)
 - [A Letter To Dr. Gavin Wood](https://blog.devgenius.io/a-letter-to-dr-gavin-wood-6b039bf05e86?source=rss-bcf029f2b23f------2)
 - [Why Good Documentation Matters For Your Framework/Library!](https://blog.devgenius.io/why-good-documentation-matters-for-your-framework-library-220cce183957?source=rss-bcf029f2b23f------2)
-- [Is This Trump’s Masterplan?](https://medium.com/@ed.wacc1995/is-this-trumps-masterplan-cbd4831db2e5?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
