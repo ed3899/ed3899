@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do Not Learn Elixir](https://blog.devgenius.io/do-not-learn-elixir-eb9437534429?source=rss-bcf029f2b23f------2)
 - [Java Is Slowly Dying](https://blog.devgenius.io/java-is-slowly-dying-549afc8d3dca?source=rss-bcf029f2b23f------2)
 - [Why Piracy Matters](https://medium.com/@ed.wacc1995/why-piracy-matters-6606ace0ee20?source=rss-bcf029f2b23f------2)
 - [Ready Player One Was A Warning](https://medium.com/@ed.wacc1995/ready-player-one-was-a-warning-90f3ae0196cc?source=rss-bcf029f2b23f------2)
 - [Tricking Devs Into Free Work With Tech Challenges And How To Fight Back](https://blog.devgenius.io/tricking-devs-into-free-work-with-tech-challenges-and-how-to-fight-back-7110ccac17dc?source=rss-bcf029f2b23f------2)
-- [Frequency Penalty vs Presence Penalty in Less Than 5 Mins](https://blog.devgenius.io/frequency-penalty-vs-presence-penalty-in-less-than-5-mins-88cb95874826?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
