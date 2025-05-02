@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The P*ssyFication Of Programming Languages](https://medium.com/@ed.wacc1995/the-p-ssyfication-of-programming-languages-6adb0e54fd4b?source=rss-bcf029f2b23f------2)
 - [Well Fuck, Discord Is Cooked](https://medium.com/@ed.wacc1995/well-fuck-discord-is-cooked-df1d6259aa5a?source=rss-bcf029f2b23f------2)
 - [She Teaches Machine Learning…In Porn Hub](https://medium.com/@ed.wacc1995/she-teaches-machine-learning-in-porn-hub-ce6647014e72?source=rss-bcf029f2b23f------2)
 - [Do Not Learn Elixir](https://medium.com/@ed.wacc1995/do-not-learn-elixir-eb9437534429?source=rss-bcf029f2b23f------2)
 - [Java Is Slowly Dying](https://medium.com/@ed.wacc1995/java-is-slowly-dying-549afc8d3dca?source=rss-bcf029f2b23f------2)
-- [Why Piracy Matters](https://medium.com/@ed.wacc1995/why-piracy-matters-6606ace0ee20?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
