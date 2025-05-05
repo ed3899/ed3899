@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Haskell And Rust Won’t Save Web3 Alone](https://medium.com/@ed.wacc1995/why-haskell-and-rust-wont-save-web3-alone-00a6da0d464c?source=rss-bcf029f2b23f------2)
 - [AI Gives You Depression](https://medium.com/@ed.wacc1995/ai-gives-you-depression-48b59bdb409b?source=rss-bcf029f2b23f------2)
 - [The Devs That Don’t Fit In](https://medium.com/@ed.wacc1995/the-devs-that-dont-fit-in-067d0c627ae5?source=rss-bcf029f2b23f------2)
 - [The P*ssyFication Of Programming Languages](https://medium.com/@ed.wacc1995/the-p-ssyfication-of-programming-languages-6adb0e54fd4b?source=rss-bcf029f2b23f------2)
-- [Well Fuck, Discord Is Cooked](https://medium.com/@ed.wacc1995/well-fuck-discord-is-cooked-df1d6259aa5a?source=rss-bcf029f2b23f------2)
-- [She Teaches Machine Learning…In Porn Hub](https://medium.com/@ed.wacc1995/she-teaches-machine-learning-in-porn-hub-ce6647014e72?source=rss-bcf029f2b23f------2)
+- [Well F*ck, Discord Is Cooked](https://medium.com/@ed.wacc1995/well-fuck-discord-is-cooked-df1d6259aa5a?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
