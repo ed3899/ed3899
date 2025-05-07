@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The “New IDE” VibeBoyz](https://medium.com/@ed.wacc1995/the-new-ide-vibeboyz-8ca0eae54751?source=rss-bcf029f2b23f------2)
 - [One Of Bitcoin’s Fatal Flaws](https://medium.com/@ed.wacc1995/one-of-bitcoins-fatal-flaws-193c062e83ed?source=rss-bcf029f2b23f------2)
 - [He Rewrote His Backend In Go: This Is What Happened To His Marriage](https://medium.com/@ed.wacc1995/he-rewrote-his-backend-in-go-this-is-what-happened-to-his-marriage-97fa5850bdf2?source=rss-bcf029f2b23f------2)
 - [Why Haskell And Rust Won’t Save Web3 Alone](https://medium.com/@ed.wacc1995/why-haskell-and-rust-wont-save-web3-alone-00a6da0d464c?source=rss-bcf029f2b23f------2)
 - [AI Gives You Depression](https://blog.devgenius.io/ai-gives-you-depression-48b59bdb409b?source=rss-bcf029f2b23f------2)
-- [The Devs That Don’t Fit In](https://medium.com/@ed.wacc1995/the-devs-that-dont-fit-in-067d0c627ae5?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
