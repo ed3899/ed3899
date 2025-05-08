@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [I Tried AWS Amplify. It Sucks](https://javascript.plainenglish.io/i-tried-aws-amplify-it-sucks-c406e15e47f1?source=rss-bcf029f2b23f------2)
+- [I Tried AWS Amplify. It Sucks](https://aws.plainenglish.io/i-tried-aws-amplify-it-sucks-c406e15e47f1?source=rss-bcf029f2b23f------2)
 - [The “New IDE” VibeBoyz](https://medium.com/@ed.wacc1995/the-new-ide-vibeboyz-8ca0eae54751?source=rss-bcf029f2b23f------2)
 - [One Of Bitcoin’s Fatal Flaws](https://medium.com/@ed.wacc1995/one-of-bitcoins-fatal-flaws-193c062e83ed?source=rss-bcf029f2b23f------2)
 - [He Rewrote His Backend In Go: This Is What Happened To His Marriage](https://medium.com/@ed.wacc1995/he-rewrote-his-backend-in-go-this-is-what-happened-to-his-marriage-97fa5850bdf2?source=rss-bcf029f2b23f------2)
