@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You Need More Interview Stages](https://medium.com/@ed.wacc1995/you-need-more-interview-stages-c4dda36647a6?source=rss-bcf029f2b23f------2)
 - [I Rewrote From Node to Deno](https://javascript.plainenglish.io/i-rewrote-from-node-to-deno-66ce89269950?source=rss-bcf029f2b23f------2)
 - [Stupid Founder At Useless Company](https://medium.com/@ed.wacc1995/stupid-founder-at-useless-company-412bea016d9f?source=rss-bcf029f2b23f------2)
 - [AI Coding Is The New PED](https://medium.com/@ed.wacc1995/ai-coding-is-the-new-ped-9d614daa9a19?source=rss-bcf029f2b23f------2)
 - [I Tried AWS Amplify. It Sucks.](https://aws.plainenglish.io/i-tried-aws-amplify-it-sucks-c406e15e47f1?source=rss-bcf029f2b23f------2)
-- [The “New IDE” VibeBoyz](https://medium.com/@ed.wacc1995/the-new-ide-vibeboyz-8ca0eae54751?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
