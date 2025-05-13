@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of NOT Switching Frameworks Every Year](https://javascript.plainenglish.io/the-cost-of-not-switching-frameworks-every-year-ed66ef6bc23a?source=rss-bcf029f2b23f------2)
 - [Surviving the Rust Cult](https://medium.com/@ed.wacc1995/surviving-the-rust-cult-58497ed86688?source=rss-bcf029f2b23f------2)
 - [You Need More Interview Stages](https://medium.com/@ed.wacc1995/you-need-more-interview-stages-c4dda36647a6?source=rss-bcf029f2b23f------2)
 - [I Rewrote From Node to Deno](https://javascript.plainenglish.io/i-rewrote-from-node-to-deno-66ce89269950?source=rss-bcf029f2b23f------2)
 - [Stupid Founder At Useless Company](https://medium.com/@ed.wacc1995/stupid-founder-at-useless-company-412bea016d9f?source=rss-bcf029f2b23f------2)
-- [AI Coding Is The New PED](https://medium.com/@ed.wacc1995/ai-coding-is-the-new-ped-9d614daa9a19?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
