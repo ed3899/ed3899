@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cardano Is Coming To Brave](https://medium.com/@ed.wacc1995/cardano-is-coming-to-brave-b2d3e3e03d51?source=rss-bcf029f2b23f------2)
 - [Why You Should Totally Use AWS Cognito](https://aws.plainenglish.io/why-you-should-totally-use-aws-cognito-9a5a8976f380?source=rss-bcf029f2b23f------2)
 - [The Cost of NOT Switching Frameworks Every Year](https://javascript.plainenglish.io/the-cost-of-not-switching-frameworks-every-year-ed66ef6bc23a?source=rss-bcf029f2b23f------2)
 - [Surviving the Rust Cult](https://medium.com/@ed.wacc1995/surviving-the-rust-cult-58497ed86688?source=rss-bcf029f2b23f------2)
 - [You Need More Interview Stages](https://medium.com/@ed.wacc1995/you-need-more-interview-stages-c4dda36647a6?source=rss-bcf029f2b23f------2)
-- [I Rewrote From Node to Deno](https://javascript.plainenglish.io/i-rewrote-from-node-to-deno-66ce89269950?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
