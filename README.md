@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [He Made Typescript 10x Better And Faster](https://javascript.plainenglish.io/he-made-typescript-10x-better-and-faster-8f7c4e7b27d1?source=rss-bcf029f2b23f------2)
 - [AWS CodeCommit: The Git Service That Even AWS Doesn’t Use](https://aws.plainenglish.io/aws-codecommit-the-git-service-that-even-aws-doesnt-use-3b3b733f4822?source=rss-bcf029f2b23f------2)
 - [Amazon OpenSearch Service: The Cloud Rollercoaster You Never Signed Up For](https://aws.plainenglish.io/amazon-opensearch-service-the-cloud-rollercoaster-you-never-signed-up-for-243e0b94e9c0?source=rss-bcf029f2b23f------2)
 - [Cardano Is Coming To Brave](https://medium.com/@ed.wacc1995/cardano-is-coming-to-brave-b2d3e3e03d51?source=rss-bcf029f2b23f------2)
 - [Why You Should Totally Use AWS Cognito](https://aws.plainenglish.io/why-you-should-totally-use-aws-cognito-9a5a8976f380?source=rss-bcf029f2b23f------2)
-- [The Cost of NOT Switching Frameworks Every Year](https://javascript.plainenglish.io/the-cost-of-not-switching-frameworks-every-year-ed66ef6bc23a?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
