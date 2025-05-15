@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A 9-Year-Old Used AI To Build A JavaScript Game](https://javascript.plainenglish.io/a-9-year-old-used-ai-to-build-a-javascript-game-d0f1c295fddf?source=rss-bcf029f2b23f------2)
+- [The Great Steam “Hack” of 2025](https://medium.com/@ed.wacc1995/the-great-steam-hack-of-2025-f6912216ee6d?source=rss-bcf029f2b23f------2)
 - [AlphaEvolve Is Not Coming for Your Coding Job](https://blog.devgenius.io/alphaevolve-is-not-coming-for-your-coding-job-043b0b06c818?source=rss-bcf029f2b23f------2)
 - [AWS CodePipeline: The CI/CD Tool That Makes You Miss Dial-Up Internet](https://aws.plainenglish.io/aws-codepipeline-the-ci-cd-tool-that-makes-you-miss-dial-up-internet-997ead7ebb5f?source=rss-bcf029f2b23f------2)
 - [AI Is Destroying The Content Economy](https://medium.com/@ed.wacc1995/ai-is-destroying-the-content-economy-1d4fd1159cc6?source=rss-bcf029f2b23f------2)
-- [Lovable vs Bolt](https://medium.com/@ed.wacc1995/lovable-vs-bolt-c1ef05a697e5?source=rss-bcf029f2b23f------2)
-- [He Made Typescript 10x Better And Faster](https://javascript.plainenglish.io/he-made-typescript-10x-better-and-faster-8f7c4e7b27d1?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
