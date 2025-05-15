@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [AI Is Destroying The Content Economy](https://medium.com/@ed.wacc1995/ai-is-destroying-the-content-economy-1d4fd1159cc6?source=rss-bcf029f2b23f------2)
-- [Lovable vs Bolt](https://blog.devgenius.io/lovable-vs-bolt-c1ef05a697e5?source=rss-bcf029f2b23f------2)
+- [Lovable vs Bolt](https://medium.com/@ed.wacc1995/lovable-vs-bolt-c1ef05a697e5?source=rss-bcf029f2b23f------2)
 - [He Made Typescript 10x Better And Faster](https://javascript.plainenglish.io/he-made-typescript-10x-better-and-faster-8f7c4e7b27d1?source=rss-bcf029f2b23f------2)
 - [AWS CodeCommit: The Git Service That Even AWS Doesn’t Use](https://aws.plainenglish.io/aws-codecommit-the-git-service-that-even-aws-doesnt-use-3b3b733f4822?source=rss-bcf029f2b23f------2)
 - [Amazon OpenSearch Service: The Cloud Rollercoaster You Never Signed Up For](https://aws.plainenglish.io/amazon-opensearch-service-the-cloud-rollercoaster-you-never-signed-up-for-243e0b94e9c0?source=rss-bcf029f2b23f------2)
