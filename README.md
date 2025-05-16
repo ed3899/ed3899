@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Confusion Matrix](https://medium.com/@ed.wacc1995/the-confusion-matrix-ba04862d6ea5?source=rss-bcf029f2b23f------2)
+- [A Day in the Life Of… an AWS Acolyte](https://aws.plainenglish.io/a-day-in-the-life-of-an-aws-acolyte-46465dafc167?source=rss-bcf029f2b23f------2)
+- [Node.js 24 Is Here And Winning](https://javascript.plainenglish.io/node-js-24-is-here-and-winning-56c1a68687b1?source=rss-bcf029f2b23f------2)
 - [A 9-Year-Old Used AI To Build A JavaScript Game](https://javascript.plainenglish.io/a-9-year-old-used-ai-to-build-a-javascript-game-d0f1c295fddf?source=rss-bcf029f2b23f------2)
 - [The Great Steam “Hack” of 2025](https://medium.com/@ed.wacc1995/the-great-steam-hack-of-2025-f6912216ee6d?source=rss-bcf029f2b23f------2)
-- [AlphaEvolve Is Not Coming for Your Coding Job](https://blog.devgenius.io/alphaevolve-is-not-coming-for-your-coding-job-043b0b06c818?source=rss-bcf029f2b23f------2)
-- [AWS CodePipeline: The CI/CD Tool That Makes You Miss Dial-Up Internet](https://aws.plainenglish.io/aws-codepipeline-the-ci-cd-tool-that-makes-you-miss-dial-up-internet-997ead7ebb5f?source=rss-bcf029f2b23f------2)
-- [AI Is Destroying The Content Economy](https://medium.com/@ed.wacc1995/ai-is-destroying-the-content-economy-1d4fd1159cc6?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
