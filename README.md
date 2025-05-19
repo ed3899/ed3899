@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Node.js Will Love Carbon](https://medium.com/@ed.wacc1995/why-node-js-will-love-carbon-04b7d2e0c1f6?source=rss-bcf029f2b23f------2)
 - [The Hidden Rules To Become A Senior &lpar;Nowadays&rpar;](https://medium.com/@ed.wacc1995/the-hidden-rules-to-become-a-senior-nowadays-d7f8991958b8?source=rss-bcf029f2b23f------2)
 - [23andMe: From Decoding Your DNA to Declaring Chapter 11](https://medium.com/@ed.wacc1995/23andme-from-decoding-your-dna-to-declaring-chapter-11-46ce7a3f401f?source=rss-bcf029f2b23f------2)
 - [France Leads the Way in Open Sauce Revolution](https://medium.com/lets-code-future/france-leads-the-way-in-open-sauce-revolution-eb9aebfef01e?source=rss-bcf029f2b23f------2)
 - [These “Productivity Hacks” Were Actually My Brain Screaming for Help](https://medium.com/@ed.wacc1995/these-productivity-hacks-were-actually-my-brain-screaming-for-help-dac47f3691d1?source=rss-bcf029f2b23f------2)
-- [The Laptop Is Dead](https://blog.devgenius.io/the-laptop-is-dead-79876fa66b08?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
