@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot Is Now Open Source!](https://blog.devgenius.io/github-copilot-is-now-open-source-d8e399b0c8b5?source=rss-bcf029f2b23f------2)
 - [Zod 4 Is Here!](https://javascript.plainenglish.io/zod-4-is-here-623395b1912b?source=rss-bcf029f2b23f------2)
 - [Nektos: Run your GitHub Actions Locally](https://medium.com/lets-code-future/nektos-run-your-github-actions-locally-13e56831744c?source=rss-bcf029f2b23f------2)
 - [Jules, Google’s GitHub Copilot](https://blog.devgenius.io/jules-googles-github-copilot-06c7793e2f94?source=rss-bcf029f2b23f------2)
 - [Vibe Coding Is The Key For A New Recession](https://medium.com/lets-code-future/vibe-coding-is-the-key-for-a-new-recession-7c637ea5e767?source=rss-bcf029f2b23f------2)
-- [Why Node.js Will Love Carbon](https://javascript.plainenglish.io/why-node-js-will-love-carbon-04b7d2e0c1f6?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
