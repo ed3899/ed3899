@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Won’t Cut It In The Gaming Industry](https://medium.com/@ed.wacc1995/rust-wont-cut-it-in-the-gaming-industry-4b509686dda0?source=rss-bcf029f2b23f------2)
+- [Claude 4: Because Apparently We Needed an AI That Can Code for Seven Hours Straight](https://medium.com/lets-code-future/claude-4-because-apparently-we-needed-an-ai-that-can-code-for-seven-hours-straight-3c1c1da6db34?source=rss-bcf029f2b23f------2)
+- [Rust Won’t Cut It In The Gaming Industry](https://blog.devgenius.io/rust-wont-cut-it-in-the-gaming-industry-4b509686dda0?source=rss-bcf029f2b23f------2)
 - [Why Carbon Matters More Than Rust](https://medium.com/lets-code-future/why-carbon-matters-more-than-rust-05dcc766d46e?source=rss-bcf029f2b23f------2)
 - [Coding Yourself to Death](https://medium.com/@ed.wacc1995/coding-yourself-to-death-a4471a34dc66?source=rss-bcf029f2b23f------2)
 - [Red Programming Language: Because The World Really Needs a Full-Stack Programming Language](https://blog.devgenius.io/red-programming-language-because-the-world-really-needs-a-full-stack-programming-language-b67a2b41a484?source=rss-bcf029f2b23f------2)
-- [Amazon Q: Your New Best Friend](https://aws.plainenglish.io/amazon-q-your-new-best-friend-802132bfd9ba?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
