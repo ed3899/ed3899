@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Code To Build](https://medium.com/@ed.wacc1995/code-to-build-f90499a7876a?source=rss-bcf029f2b23f------2)
 - [Rust And Linux Kernel Love Story?](https://medium.com/lets-code-future/rust-and-linux-kernel-love-story-b460ffbffdac?source=rss-bcf029f2b23f------2)
 - [GitLab Duo Goes Rogue](https://medium.com/@ed.wacc1995/gitlab-duo-goes-rogue-c99956a0a6bf?source=rss-bcf029f2b23f------2)
 - [Visualizing PostgreSQL Schema Connections in VS Code?! By Microsoft](https://medium.com/lets-code-future/visualizing-postgresql-schema-connections-in-vs-code-by-microsofo-5ab9e60595bd?source=rss-bcf029f2b23f------2)
 - [Claude 4: Because Apparently We Needed an AI That Can Code for Seven Hours Straight](https://medium.com/lets-code-future/claude-4-because-apparently-we-needed-an-ai-that-can-code-for-seven-hours-straight-3c1c1da6db34?source=rss-bcf029f2b23f------2)
-- [Rust Won’t Cut It In The Gaming Industry](https://blog.devgenius.io/rust-wont-cut-it-in-the-gaming-industry-4b509686dda0?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
