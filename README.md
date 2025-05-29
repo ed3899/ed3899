@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why AWS and Early IaC Might Be Killing Your Startup](https://aws.plainenglish.io/why-aws-and-early-iac-might-be-killing-your-startup-e480f3102f9f?source=rss-bcf029f2b23f------2)
 - [Simple Dev By SynirSkynard](https://medium.com/lets-code-future/simple-dev-by-synirskynard-9cc6ae5e94bb?source=rss-bcf029f2b23f------2)
 - [My Journey into the Cult of Lottie](https://javascript.plainenglish.io/my-journey-into-the-cult-of-lottie-6806610cae68?source=rss-bcf029f2b23f------2)
 - [Code To Build](https://medium.com/@ed.wacc1995/code-to-build-f90499a7876a?source=rss-bcf029f2b23f------2)
 - [Rust And Linux Kernel Love Story?](https://medium.com/lets-code-future/rust-and-linux-kernel-love-story-b460ffbffdac?source=rss-bcf029f2b23f------2)
-- [GitLab Duo Goes Rogue](https://medium.com/@ed.wacc1995/gitlab-duo-goes-rogue-c99956a0a6bf?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
