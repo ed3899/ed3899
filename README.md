@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Magic in Node.js](https://medium.com/@ed.wacc1995/memory-magic-in-node-js-a97fccb251fd?source=rss-bcf029f2b23f------2)
 - [Await Is Not Just Then’s Syntactic Sugar!](https://javascript.plainenglish.io/await-is-not-just-thens-syntactic-sugar-74bd5db67474?source=rss-bcf029f2b23f------2)
 - [Is DevOps Dying? On Life Support? Dead?](https://medium.com/lets-code-future/is-devops-dying-on-life-support-dead-9cd3aa37b99c?source=rss-bcf029f2b23f------2)
 - [AWS MemoryDB for Redis Is A Meh](https://medium.com/@ed.wacc1995/aws-memorydb-for-redis-is-a-meh-c89b5fa3f8ed?source=rss-bcf029f2b23f------2)
 - [Continue.dev: The Open-Source AI Assistant](https://medium.com/lets-code-future/continue-dev-the-open-source-ai-assistant-02584d320381?source=rss-bcf029f2b23f------2)
-- [Node.js Streams](https://javascript.plainenglish.io/node-js-streams-a4417d6d6d57?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
