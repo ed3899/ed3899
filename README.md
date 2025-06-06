@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Memory Magic in Node.js](https://medium.com/@ed.wacc1995/memory-magic-in-node-js-a97fccb251fd?source=rss-bcf029f2b23f------2)
+- [Memory Magic in Node.js](https://javascript.plainenglish.io/memory-magic-in-node-js-a97fccb251fd?source=rss-bcf029f2b23f------2)
 - [Await Is Not Just Then’s Syntactic Sugar!](https://javascript.plainenglish.io/await-is-not-just-thens-syntactic-sugar-74bd5db67474?source=rss-bcf029f2b23f------2)
 - [Is DevOps Dying? On Life Support? Dead?](https://medium.com/lets-code-future/is-devops-dying-on-life-support-dead-9cd3aa37b99c?source=rss-bcf029f2b23f------2)
 - [AWS MemoryDB for Redis Is A Meh](https://aws.plainenglish.io/aws-memorydb-for-redis-is-a-meh-c89b5fa3f8ed?source=rss-bcf029f2b23f------2)
