@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft’s Model Context Protocol](https://medium.com/@ed.wacc1995/microsofts-model-context-protocol-24f8db108615?source=rss-bcf029f2b23f------2)
+- [Microsoft’s Model Context Protocol](https://medium.com/lets-code-future/microsofts-model-context-protocol-24f8db108615?source=rss-bcf029f2b23f------2)
 - [You Don’t Need To Learn Another Programming Language](https://medium.com/lets-code-future/you-dont-need-to-learn-another-programming-language-930ebd313c8b?source=rss-bcf029f2b23f------2)
 - [We Are All Sick Of AI IDE Fanboys](https://medium.com/lets-code-future/we-are-all-sick-of-ai-ide-fanboys-f7f7550a0164?source=rss-bcf029f2b23f------2)
 - [Memory Magic in Node.js](https://javascript.plainenglish.io/memory-magic-in-node-js-a97fccb251fd?source=rss-bcf029f2b23f------2)
