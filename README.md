@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [You May Not Need dotenv Anymore](https://javascript.plainenglish.io/you-may-not-need-dotenv-anymore-7b076f5e510b?source=rss-bcf029f2b23f------2)
 - [Microsoft’s Model Context Protocol](https://medium.com/lets-code-future/microsofts-model-context-protocol-24f8db108615?source=rss-bcf029f2b23f------2)
 - [You Don’t Need To Learn Another Programming Language](https://medium.com/lets-code-future/you-dont-need-to-learn-another-programming-language-930ebd313c8b?source=rss-bcf029f2b23f------2)
 - [We Are All Sick Of AI IDE Fanboys](https://medium.com/lets-code-future/we-are-all-sick-of-ai-ide-fanboys-f7f7550a0164?source=rss-bcf029f2b23f------2)
 - [Memory Magic in Node.js](https://javascript.plainenglish.io/memory-magic-in-node-js-a97fccb251fd?source=rss-bcf029f2b23f------2)
-- [Await Is Not Just Then’s Syntactic Sugar!](https://javascript.plainenglish.io/await-is-not-just-thens-syntactic-sugar-74bd5db67474?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
