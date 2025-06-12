@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Hardest Programming Language?](https://medium.com/lets-code-future/the-hardest-programming-language-293d3498e873?source=rss-bcf029f2b23f------2)
 - [GoodBye Chalk! In Node](https://javascript.plainenglish.io/goodbye-chalk-in-node-faa5d6810605?source=rss-bcf029f2b23f------2)
 - [How Private Equity May Break Tech](https://medium.com/lets-code-future/how-private-equity-may-break-tech-1fe0cfd01fe4?source=rss-bcf029f2b23f------2)
 - [You May Not Need dotenv Anymore](https://javascript.plainenglish.io/you-may-not-need-dotenv-anymore-7b076f5e510b?source=rss-bcf029f2b23f------2)
 - [Microsoft’s Model Context Protocol](https://medium.com/lets-code-future/microsofts-model-context-protocol-24f8db108615?source=rss-bcf029f2b23f------2)
-- [You Don’t Need To Learn Another Programming Language](https://medium.com/lets-code-future/you-dont-need-to-learn-another-programming-language-930ebd313c8b?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
