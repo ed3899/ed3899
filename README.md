@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Please Learn CSS](https://javascript.plainenglish.io/please-learn-css-e6a4a0786ea6?source=rss-bcf029f2b23f------2)
 - [From Rust to Zig &lpar;The Dev Drama&rpar;](https://medium.com/codetodeploy/from-rust-to-zig-the-dev-drama-0226d80db137?source=rss-bcf029f2b23f------2)
 - [This Angers Devs The Most](https://medium.com/codetodeploy/this-angers-devs-the-most-054a6153141c?source=rss-bcf029f2b23f------2)
 - [Why Devs Can’t Stop Chasing the Next Shiny Language?](https://medium.com/codetodeploy/why-devs-cant-stop-chasing-the-next-shiny-language-e67992963723?source=rss-bcf029f2b23f------2)
 - [What’s The Role Of Elixir?](https://medium.com/lets-code-future/whats-the-role-of-elixir-1aeacedba7e4?source=rss-bcf029f2b23f------2)
-- [Why Being A Doomer For Devs Is The Norm?](https://medium.com/lets-code-future/why-being-a-doomer-for-devs-is-the-norm-468faefd2817?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
