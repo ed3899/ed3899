@@ -4,7 +4,7 @@ Hi 👋 My name is Eduardo Casanova
 Full Stack Software Engineer
 ----------------------------
 
-I love solving problems in Web Apps and getting a decent pay for it.
+I love solving problems and getting paid to do so.
 
 * ✉️  You can contact me at [ed.wacc1995@gmail.com](mailto:ed.wacc1995@gmail.com)
 
