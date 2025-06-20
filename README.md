@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Don’t Really Know UI/UX](https://medium.com/codetodeploy/why-you-dont-really-know-ui-ux-cbb52c149f91?source=rss-bcf029f2b23f------2)
 - [Active Prompting Explained](https://medium.com/@ed.wacc1995/active-prompting-explained-5f867b7911fd?source=rss-bcf029f2b23f------2)
 - [The $80 Million Vibe Coding Sensation](https://medium.com/codetodeploy/the-80-million-vibe-coding-sensation-5749ad002396?source=rss-bcf029f2b23f------2)
 - [The Party That Never Was](https://medium.com/codetodeploy/the-party-that-never-was-65e7c7278789?source=rss-bcf029f2b23f------2)
 - [Please Learn CSS](https://javascript.plainenglish.io/please-learn-css-e6a4a0786ea6?source=rss-bcf029f2b23f------2)
-- [From Rust to Zig &lpar;The Dev Drama&rpar;](https://medium.com/codetodeploy/from-rust-to-zig-the-dev-drama-0226d80db137?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
