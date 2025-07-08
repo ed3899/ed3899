@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Betting on Polkadot: A Weekend with Staking and Reflections on Tech Trends](https://medium.com/@ed.wacc1995/betting-on-polkadot-a-weekend-with-staking-and-reflections-on-tech-trends-014fc411e3ec?source=rss-bcf029f2b23f------2)
+- [Betting on Polkadot: A Weekend with Staking and Reflections on Tech Trends](https://medium.com/codetodeploy/betting-on-polkadot-a-weekend-with-staking-and-reflections-on-tech-trends-014fc411e3ec?source=rss-bcf029f2b23f------2)
 - [OpenTofu Explained](https://medium.com/codetodeploy/opentofu-explained-43168ba67848?source=rss-bcf029f2b23f------2)
 - [Why Web 3.0 Is Such A Big Threat](https://medium.com/lets-code-future/why-web-3-0-is-such-a-big-threat-a92d9802da60?source=rss-bcf029f2b23f------2)
 - [Why You Don’t Really Know UI/UX](https://medium.com/codetodeploy/why-you-dont-really-know-ui-ux-cbb52c149f91?source=rss-bcf029f2b23f------2)
