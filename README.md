@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Analysis Paralysis When Trying To Build On Cardano](https://medium.com/@ed.wacc1995/analysis-paralysis-when-trying-to-build-on-cardano-059b83fb6a4d?source=rss-bcf029f2b23f------2)
+- [H-1B, The Calm Before The Storm](https://medium.com/lets-code-future/h-1b-the-calm-before-the-storm-4d542e3ff899?source=rss-bcf029f2b23f------2)
+- [Analysis Paralysis When Trying To Build On Cardano](https://medium.com/lets-code-future/analysis-paralysis-when-trying-to-build-on-cardano-059b83fb6a4d?source=rss-bcf029f2b23f------2)
 - [Weekly Rant #4 — What Stops You From Launching Your App](https://medium.com/lets-code-future/weekly-rant-4-what-stops-you-from-launching-your-app-a7c965cba8f4?source=rss-bcf029f2b23f------2)
 - [Weekly Rant #3 — Breaking The Digital Content Economy](https://medium.com/@ed.wacc1995/weekly-rant-3-breaking-the-digital-content-economy-427f484ab50a?source=rss-bcf029f2b23f------2)
 - [Weekly Rant #2 — GENIOUS Act, Towards Web 3.0 via Web 2.5](https://medium.com/lets-code-future/weekly-rant-2-genious-act-towards-web-3-0-via-web-2-5-ec43572fe78f?source=rss-bcf029f2b23f------2)
-- [Weekly Rant #1 — Beyond Woke and MAGA: Why Decentralized Governance Is the Next Tech Revolution](https://medium.com/@ed.wacc1995/weekly-rant-1-beyond-woke-and-maga-why-decentralized-governance-is-the-next-tech-revolution-26c1e2dfd937?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
