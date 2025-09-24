@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Module 2: Ownership &amp; Borrowing Demystified](https://medium.com/@ed.wacc1995/module-2-ownership-borrowing-demystified-1fea6e76ec6f?source=rss-bcf029f2b23f------2)
 - [Module 1: Intro to Rust for Backend Devs](https://blog.devgenius.io/module-1-intro-to-rust-for-backend-devs-2935eaf0e002?source=rss-bcf029f2b23f------2)
 - [Shai-Hulud and the Worm That Ate npm](https://javascript.plainenglish.io/shai-hulud-and-the-worm-that-ate-npm-3c9b4b2b739c?source=rss-bcf029f2b23f------2)
 - [H-1B, The Calm Before The Storm](https://medium.com/lets-code-future/h-1b-the-calm-before-the-storm-4d542e3ff899?source=rss-bcf029f2b23f------2)
 - [Analysis Paralysis When Trying To Build On Cardano](https://medium.com/lets-code-future/analysis-paralysis-when-trying-to-build-on-cardano-059b83fb6a4d?source=rss-bcf029f2b23f------2)
-- [Weekly Rant #4 — What Stops You From Launching Your App](https://medium.com/lets-code-future/weekly-rant-4-what-stops-you-from-launching-your-app-a7c965cba8f4?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
