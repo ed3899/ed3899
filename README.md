@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Module 4: Error Handling in Rust — Result, Option, Error Propagation](https://blog.devgenius.io/module-4-error-handling-in-rust-result-option-error-propagation-929779bf65e2?source=rss-bcf029f2b23f------2)
 - [Module 3: Enums, Traits &amp; Generics — Idiomatic Rust Patterns](https://blog.devgenius.io/module-3-enums-traits-generics-idiomatic-rust-patterns-8943ee6bb0ac?source=rss-bcf029f2b23f------2)
 - [Vercel vs AWS: Choosing the Right Platform for Your Startup Scaling to 100k MAU](https://aws.plainenglish.io/vercel-vs-aws-choosing-the-right-platform-for-your-startup-scaling-to-100k-mau-3aee99d2eade?source=rss-bcf029f2b23f------2)
 - [Module 2: Ownership &amp; Borrowing Demystified](https://blog.devgenius.io/module-2-ownership-borrowing-demystified-1fea6e76ec6f?source=rss-bcf029f2b23f------2)
 - [Module 1: Intro to Rust for Backend Devs](https://blog.devgenius.io/module-1-intro-to-rust-for-backend-devs-2935eaf0e002?source=rss-bcf029f2b23f------2)
-- [Shai-Hulud and the Worm That Ate npm](https://javascript.plainenglish.io/shai-hulud-and-the-worm-that-ate-npm-3c9b4b2b739c?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
