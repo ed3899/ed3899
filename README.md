@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Module 6: Project — Rust REST API](https://medium.com/@ed.wacc1995/module-6-project-rust-rest-api-013c949a768e?source=rss-bcf029f2b23f------2)
 - [Module 5.1: Deep Dive into Async Rust &lpar;Futures, Tokio, and Alternatives&rpar;](https://blog.devgenius.io/module-5-1-deep-dive-into-async-rust-futures-tokio-and-alternatives-d0fa7b55132e?source=rss-bcf029f2b23f------2)
 - [Module 5: Async Rust — intro to Tokio, async/await, writing an async service](https://blog.devgenius.io/module-5-async-rust-intro-to-tokio-async-await-writing-an-async-service-e3313d5b1779?source=rss-bcf029f2b23f------2)
 - [Module 4: Error Handling in Rust — Result, Option, Error Propagation](https://blog.devgenius.io/module-4-error-handling-in-rust-result-option-error-propagation-929779bf65e2?source=rss-bcf029f2b23f------2)
 - [Module 3: Enums, Traits &amp; Generics — Idiomatic Rust Patterns](https://blog.devgenius.io/module-3-enums-traits-generics-idiomatic-rust-patterns-8943ee6bb0ac?source=rss-bcf029f2b23f------2)
-- [Vercel vs AWS: Choosing the Right Platform for Your Startup Scaling to 100k MAU](https://aws.plainenglish.io/vercel-vs-aws-choosing-the-right-platform-for-your-startup-scaling-to-100k-mau-3aee99d2eade?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
