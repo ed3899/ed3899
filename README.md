@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Heidi Health’s $65M AI Bet: Promise or Pandora’s Box?](https://medium.com/@ed.wacc1995/heidi-healths-65m-ai-bet-promise-or-pandora-s-box-5bee54a57698?source=rss-bcf029f2b23f------2)
 - [Salesforce Agentforce Vibes](https://medium.com/@ed.wacc1995/salesforce-agentforce-vibes-7bab8190b80f?source=rss-bcf029f2b23f------2)
 - [When Software Engineering Becomes Dreadful](https://medium.com/@ed.wacc1995/when-software-engineering-becomes-dreadful-a6afc032ba5a?source=rss-bcf029f2b23f------2)
 - [Comet, The AI Browser You Don’t Need](https://medium.com/@ed.wacc1995/comet-the-ai-browser-you-dont-need-c4fa116effd6?source=rss-bcf029f2b23f------2)
 - [Separate Tool From CEO, Guillermo Rauch](https://medium.com/@ed.wacc1995/separate-tool-from-ceo-guillermo-rauch-354b1da853b0?source=rss-bcf029f2b23f------2)
-- [You Are Too Smart and Arrogant for Your Own Good: That’s Why Your App Sucks](https://medium.com/lets-code-future/you-are-too-smart-and-arrogant-for-your-own-good-thats-why-your-app-sucks-1009e4802d06?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
