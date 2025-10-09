@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenCode: When the Terminal Becomes the Real IDE](https://medium.com/@ed.wacc1995/opencode-when-the-terminal-becomes-the-real-ide-f9df7ede1d0c?source=rss-bcf029f2b23f------2)
 - [Google’s Opal Goes Global](https://medium.com/@ed.wacc1995/googles-opal-goes-global-252684f28dd5?source=rss-bcf029f2b23f------2)
 - [The Death of SEO? From SEO to RAO](https://medium.com/@ed.wacc1995/the-death-of-seo-from-seo-to-rao-7c4db29b78eb?source=rss-bcf029f2b23f------2)
 - [Vibe Coders Piss You Off, Admit It](https://medium.com/@ed.wacc1995/vibe-coders-piss-you-off-admit-it-a219998aa8d6?source=rss-bcf029f2b23f------2)
 - [Heidi Health’s $65M AI Bet: Promise or Pandora’s Box?](https://medium.com/@ed.wacc1995/heidi-healths-65m-ai-bet-promise-or-pandora-s-box-5bee54a57698?source=rss-bcf029f2b23f------2)
-- [Salesforce Agentforce Vibes](https://medium.com/@ed.wacc1995/salesforce-agentforce-vibes-7bab8190b80f?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
