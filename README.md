@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‍♂️ AWS Lambda Powertools for TypeScript](https://javascript.plainenglish.io/%EF%B8%8F-aws-lambda-powertools-for-typescript-c96d7699b7d3?source=rss-bcf029f2b23f------2)
 - [USA $2 Billion “Open-Source Savior” Wants to Out-Go DeepSeek](https://medium.com/lets-code-future/usa-2-billion-open-source-savior-wants-to-out-go-deepseek-4317c255eac9?source=rss-bcf029f2b23f------2)
 - [Resend: The Email Service That Speaks JSX](https://javascript.plainenglish.io/resend-the-email-service-that-speaks-jsx-441a8c974bc7?source=rss-bcf029f2b23f------2)
 - [OpenCode: When the Terminal Becomes the Real IDE](https://blog.devgenius.io/opencode-when-the-terminal-becomes-the-real-ide-f9df7ede1d0c?source=rss-bcf029f2b23f------2)
 - [Google’s Opal Goes Global](https://medium.com/@ed.wacc1995/googles-opal-goes-global-252684f28dd5?source=rss-bcf029f2b23f------2)
-- [The Death of SEO? From SEO to RAO](https://medium.com/@ed.wacc1995/the-death-of-seo-from-seo-to-rao-7c4db29b78eb?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
