@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Gel Database: Because Graphs + SQL Rocks!](https://javascript.plainenglish.io/gel-database-because-graphs-sql-rocks-99269ba00fd4?source=rss-bcf029f2b23f------2)
 - [Encore.dev Is Quietly Redefining Backend Development](https://javascript.plainenglish.io/encore-dev-is-quietly-redefining-backend-development-9ac9221ad490?source=rss-bcf029f2b23f------2)
 - [Nitric: The Framework That Builds Your Cloud So You Don’t Have To](https://javascript.plainenglish.io/nitric-the-framework-that-builds-your-cloud-so-you-dont-have-to-a58230205353?source=rss-bcf029f2b23f------2)
 - [Appwrite 2025: The Open-Source Backend That’s Quietly Overtaking Firebase](https://blog.devgenius.io/appwrite-2025-the-open-source-backend-thats-quietly-overtaking-firebase-702402d3289e?source=rss-bcf029f2b23f------2)
 - [Windows 10 End of Life: The $7.3 Billion Crisis No One Is Ready For](https://medium.com/@ed.wacc1995/windows-10-end-of-life-the-7-3-billion-crisis-no-one-is-ready-for-f79fefa5bf96?source=rss-bcf029f2b23f------2)
-- [‍♂️ AWS Lambda Powertools for TypeScript](https://javascript.plainenglish.io/%EF%B8%8F-aws-lambda-powertools-for-typescript-c96d7699b7d3?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
