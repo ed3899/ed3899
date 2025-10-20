@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Locofy.ai’s Large Design Models: Because Who Needs Devs Nowadays](https://medium.com/@ed.wacc1995/locofy-ais-large-design-models-because-who-needs-devs-nowadays-a0bcf6d2ecae?source=rss-bcf029f2b23f------2)
+- [⚙️Convex: The Future of Real-Time Backends?](https://javascript.plainenglish.io/convex-the-future-of-real-time-backends-dfa3a195a6de?source=rss-bcf029f2b23f------2)
+- [Locofy.ai’s Large Design Models: Because Who Needs Devs Nowadays](https://medium.com/codetodeploy/locofy-ais-large-design-models-because-who-needs-devs-nowadays-a0bcf6d2ecae?source=rss-bcf029f2b23f------2)
 - [Gel Database: Because Graphs + SQL Rocks!](https://javascript.plainenglish.io/gel-database-because-graphs-sql-rocks-99269ba00fd4?source=rss-bcf029f2b23f------2)
 - [Encore.dev Is Quietly Redefining Backend Development](https://javascript.plainenglish.io/encore-dev-is-quietly-redefining-backend-development-9ac9221ad490?source=rss-bcf029f2b23f------2)
 - [Nitric: The Framework That Builds Your Cloud So You Don’t Have To](https://javascript.plainenglish.io/nitric-the-framework-that-builds-your-cloud-so-you-dont-have-to-a58230205353?source=rss-bcf029f2b23f------2)
-- [Appwrite 2025: The Open-Source Backend That’s Quietly Overtaking Firebase](https://blog.devgenius.io/appwrite-2025-the-open-source-backend-thats-quietly-overtaking-firebase-702402d3289e?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
