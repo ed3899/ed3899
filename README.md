@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Atlas: OpenAI’s “Browser Revolution” or a Drowning Man’s Kick?](https://medium.com/@ed.wacc1995/chatgpt-atlas-openais-browser-revolution-or-a-drowning-man-s-kick-0fc28a651830?source=rss-bcf029f2b23f------2)
 - [Turso: The SQLite That Hit the Gym and Moved to the Cloud](https://medium.com/@ed.wacc1995/turso-the-sqlite-that-hit-the-gym-and-moved-to-the-cloud-2c946cd48158?source=rss-bcf029f2b23f------2)
 - [PlanetScale: The Database So Fast It Makes Aurora Sweat](https://medium.com/@ed.wacc1995/planetscale-the-database-so-fast-it-makes-aurora-sweat-585fc9de98e4?source=rss-bcf029f2b23f------2)
 - [⚙️Convex: The Future of Real-Time Backends?](https://javascript.plainenglish.io/convex-the-future-of-real-time-backends-dfa3a195a6de?source=rss-bcf029f2b23f------2)
 - [Locofy.ai’s Large Design Models: Because Who Needs Devs Nowadays](https://medium.com/codetodeploy/locofy-ais-large-design-models-because-who-needs-devs-nowadays-a0bcf6d2ecae?source=rss-bcf029f2b23f------2)
-- [Gel Database: Because Graphs + SQL Rocks!](https://javascript.plainenglish.io/gel-database-because-graphs-sql-rocks-99269ba00fd4?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
