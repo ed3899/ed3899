@@ -13,11 +13,11 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Day I Said F*ck You Windows](https://medium.com/@ed.wacc1995/the-day-i-said-f-ck-you-windows-1f9b82822015?source=rss-bcf029f2b23f------2)
 - [PocketBase: A Backend That Fits in Your Backpack](https://medium.com/@ed.wacc1995/pocketbase-a-backend-that-fits-in-your-backpack-622584f8111a?source=rss-bcf029f2b23f------2)
 - [Convex: The Backend Wizard You Didn’t Know You Needed](https://medium.com/@ed.wacc1995/convex-the-backend-wizard-you-didnt-know-you-needed-18f0eb28801f?source=rss-bcf029f2b23f------2)
 - [The Map Behind the Maps: Mapbox’s Quiet Dominance](https://blog.devgenius.io/the-map-behind-the-maps-mapboxs-quiet-dominance-c7a5574481fa?source=rss-bcf029f2b23f------2)
 - [What Tawk.to’s “Free Forever” Model Teaches Us About the Future of SaaS](https://javascript.plainenglish.io/what-tawk-tos-free-forever-model-teaches-us-about-the-future-of-saas-0a9b6d5d0dbd?source=rss-bcf029f2b23f------2)
-- [Penpot’s Rise and the Future of Design Tools](https://medium.com/codetodeploy/penpots-rise-and-the-future-of-design-tools-9cc1a65d072d?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
