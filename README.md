@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/ed3899?logo=github&style=for-the-ba
 - [PocketBase: A Backend That Fits in Your Backpack](https://medium.com/@ed.wacc1995/pocketbase-a-backend-that-fits-in-your-backpack-622584f8111a?source=rss-bcf029f2b23f------2)
 - [Convex: The Backend Wizard You Didn’t Know You Needed](https://medium.com/@ed.wacc1995/convex-the-backend-wizard-you-didnt-know-you-needed-18f0eb28801f?source=rss-bcf029f2b23f------2)
 - [The Map Behind the Maps: Mapbox’s Quiet Dominance](https://blog.devgenius.io/the-map-behind-the-maps-mapboxs-quiet-dominance-c7a5574481fa?source=rss-bcf029f2b23f------2)
-- [What Tawk.to’s “Free Forever” Model Teaches Us About the Future of SaaS](https://javascript.plainenglish.io/what-tawk-tos-free-forever-model-teaches-us-about-the-future-of-saas-0a9b6d5d0dbd?source=rss-bcf029f2b23f------2)
+- [What Tawk.to’s “Free Forever” Model Teaches Us About the Future of SaaS](https://medium.com/@ed.wacc1995/what-tawk-tos-free-forever-model-teaches-us-about-the-future-of-saas-0a9b6d5d0dbd?source=rss-bcf029f2b23f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
